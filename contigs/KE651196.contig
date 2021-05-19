@@ -73,11 +73,9 @@ FT   gene            complement(<92..>562)
 FT                   /systematic_id="SJAG_16460"
 FT   mRNA            complement(<92..>562)
 FT                   /systematic_id="SJAG_16460"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(92..562)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_16460"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_16460"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52955"
 FT                   /db_xref="InterPro:IPR010996"
@@ -91,11 +89,9 @@ FT   gene            complement(<902..>2302)
 FT                   /systematic_id="SJAG_01110"
 FT   mRNA            complement(<902..>2302)
 FT                   /systematic_id="SJAG_01110"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(902..2302)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_01110"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_01110"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB06070"
 FT                   /db_xref="GOA:B6JZS0"
@@ -119,11 +115,9 @@ FT   gene            complement(<2409..>3461)
 FT                   /systematic_id="SJAG_01111"
 FT   mRNA            complement(<2409..>3461)
 FT                   /systematic_id="SJAG_01111"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(2409..3461)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_01111"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_01111"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB06071"
 FT                   /db_xref="GOA:B6JZS1"

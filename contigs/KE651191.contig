@@ -73,11 +73,9 @@ FT   gene            complement(<753..>1001)
 FT                   /systematic_id="SJAG_06643"
 FT   mRNA            complement(<753..>1001)
 FT                   /systematic_id="SJAG_06643"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(753..>1001)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06643"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06643"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52956"
 FT                   /db_xref="GOA:T0S2W5"

@@ -83,12 +83,10 @@ FT   gene            complement(918..1015)
 FT                   /systematic_id="SJAG_16448"
 FT   tRNA            complement(918..1015)
 FT                   /systematic_id="SJAG_16448"
-FT                   /product="tRNA-Ile"
 FT   gene            complement(1490..1561)
 FT                   /systematic_id="SJAG_16449"
 FT   tRNA            complement(1490..1561)
 FT                   /systematic_id="SJAG_16449"
-FT                   /product="tRNA-His"
 XX
 SQ   Sequence 2650 BP; 815 A; 594 C; 487 G; 754 T; 0 other;
      GCTCCGGGGC GAAAGTTCGC ACGCCAACGT GCAGCCGAAA CAGCCTTTTA TTCTTTCTGC        60

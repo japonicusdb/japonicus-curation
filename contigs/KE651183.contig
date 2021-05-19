@@ -73,11 +73,9 @@ FT   gene            <1517..2457
 FT                   /systematic_id="SJAG_05118"
 FT   mRNA            <1517..2457
 FT                   /systematic_id="SJAG_05118"
-FT                   /product="hypothetical protein"
 FT   CDS             1517..2431
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_05118"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_05118"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB05005"
 FT                   /db_xref="GOA:B6K8G5"
@@ -96,11 +94,9 @@ FT   gene            <4643..>4915
 FT                   /systematic_id="SJAG_06641"
 FT   mRNA            <4643..>4915
 FT                   /systematic_id="SJAG_06641"
-FT                   /product="hypothetical protein"
 FT   CDS             4643..4915
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06641"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06641"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52958"
 FT                   /db_xref="GOA:T0TAX6"

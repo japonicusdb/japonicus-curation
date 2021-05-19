@@ -123,44 +123,36 @@ FT   gene            978..1049
 FT                   /systematic_id="SJAG_16431"
 FT   tRNA            978..1049
 FT                   /systematic_id="SJAG_16431"
-FT                   /product="tRNA-Ala"
 FT   gene            complement(1145..1235)
 FT                   /systematic_id="SJAG_16432"
 FT   tRNA            complement(1145..1235)
 FT                   /systematic_id="SJAG_16432"
-FT                   /product="tRNA-Met"
 FT   gene            1761..1831
 FT                   /systematic_id="SJAG_16433"
 FT   tRNA            1761..1831
 FT                   /systematic_id="SJAG_16433"
-FT                   /product="tRNA-Gly"
 FT   gene            complement(4803..4893)
 FT                   /systematic_id="SJAG_16434"
 FT   tRNA            complement(4803..4893)
 FT                   /systematic_id="SJAG_16434"
-FT                   /product="tRNA-Met"
 FT   gene            5420..5488
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16435"
 FT   tRNA            5420..5488
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16435"
-FT                   /product="tRNA-OTHER"
 FT   gene            8343..8414
 FT                   /systematic_id="SJAG_16436"
 FT   tRNA            8343..8414
 FT                   /systematic_id="SJAG_16436"
-FT                   /product="tRNA-Ala"
 FT   gene            complement(8510..8600)
 FT                   /systematic_id="SJAG_16437"
 FT   tRNA            complement(8510..8600)
 FT                   /systematic_id="SJAG_16437"
-FT                   /product="tRNA-Met"
 FT   gene            9129..9199
 FT                   /systematic_id="SJAG_16438"
 FT   tRNA            9129..9199
 FT                   /systematic_id="SJAG_16438"
-FT                   /product="tRNA-Gly"
 FT   assembly_gap    10740..11443
 FT                   /estimated_length=704
 FT                   /gap_type="within scaffold"
@@ -169,14 +161,12 @@ FT   gene            12424..12495
 FT                   /systematic_id="SJAG_16439"
 FT   tRNA            12424..12495
 FT                   /systematic_id="SJAG_16439"
-FT                   /product="tRNA-Ala"
 FT   gene            13206..13275
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16440"
 FT   tRNA            13206..13275
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16440"
-FT                   /product="tRNA-OTHER"
 XX
 SQ   Sequence 13651 BP; 4075 A; 2879 C; 2909 G; 3084 T; 704 other;
      ATGCGATAAA CCGTTACGGC AAGTTGAGTT GAAAGATCTA ATGATTAAAC AGGTATTCTG        60

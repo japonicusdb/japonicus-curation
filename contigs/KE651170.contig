@@ -73,11 +73,9 @@ FT   gene            complement(<13047..>13229)
 FT                   /systematic_id="SJAG_06638"
 FT   mRNA            complement(<13047..>13229)
 FT                   /systematic_id="SJAG_06638"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(13047..>13229)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06638"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06638"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52960"
 FT                   /db_xref="UniProtKB/TrEMBL:T0RSQ8"
@@ -92,11 +90,9 @@ FT   gene            <39495..>39935
 FT                   /systematic_id="SJAG_06639"
 FT   mRNA            <39495..>39935
 FT                   /systematic_id="SJAG_06639"
-FT                   /product="hypothetical protein"
 FT   CDS             <39495..39935
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06639"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06639"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52961"
 FT                   /db_xref="GOA:T0S2X2"
@@ -111,11 +107,9 @@ FT   gene            complement(<43929..>44853)
 FT                   /systematic_id="SJAG_05143"
 FT   mRNA            complement(join(<43929..44310,44429..>44853))
 FT                   /systematic_id="SJAG_05143"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(join(43929..44310,44429..44853))
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_05143"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_05143"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB05010"
 FT                   /db_xref="InterPro:IPR005162"
@@ -130,11 +124,9 @@ FT   gene            complement(<47517..>48865)
 FT                   /systematic_id="SJAG_05352"
 FT   mRNA            complement(join(<47517..47728,48133..>48865))
 FT                   /systematic_id="SJAG_05352"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(join(47517..47728,48133..48865))
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_05352"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_05352"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB04996"
 FT                   /db_xref="UniProtKB/TrEMBL:B6K8F6"
@@ -149,11 +141,9 @@ FT   gene            complement(49203..50161)
 FT                   /systematic_id="SJAG_05050"
 FT   mRNA            complement(49203..50161)
 FT                   /systematic_id="SJAG_05050"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(49250..49918)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_05050"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_05050"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB04997"
 FT                   /db_xref="InterPro:IPR005162"

@@ -73,11 +73,9 @@ FT   gene            <1642..>2463
 FT                   /systematic_id="SJAG_06642"
 FT   mRNA            <1642..>2463
 FT                   /systematic_id="SJAG_06642"
-FT                   /product="ATP-dependent DNA helicase"
 FT   CDS             1642..2463
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06642"
-FT                   /product="ATP-dependent DNA helicase"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06642"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52957"
 FT                   /db_xref="GOA:T0S0W3"

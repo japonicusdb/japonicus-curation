@@ -73,11 +73,9 @@ FT   gene            complement(<1445..>1879)
 FT                   /systematic_id="SJAG_06640"
 FT   mRNA            complement(<1445..>1879)
 FT                   /systematic_id="SJAG_06640"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(1445..1879)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06640"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06640"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52959"
 FT                   /db_xref="UniProtKB/TrEMBL:T0T6C5"

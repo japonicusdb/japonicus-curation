@@ -83,12 +83,10 @@ FT   gene            2014..2104
 FT                   /systematic_id="SJAG_16450"
 FT   tRNA            2014..2104
 FT                   /systematic_id="SJAG_16450"
-FT                   /product="tRNA-Met"
 FT   gene            complement(2245..2316)
 FT                   /systematic_id="SJAG_16451"
 FT   tRNA            complement(2245..2316)
 FT                   /systematic_id="SJAG_16451"
-FT                   /product="tRNA-Ala"
 XX
 SQ   Sequence 2562 BP; 578 A; 621 C; 662 G; 701 T; 0 other;
      CTTATTGTAG AGAATCACTA TCCACAACAT TAAGCAACCA ATTGTAGGAC TATTGTCTGA        60

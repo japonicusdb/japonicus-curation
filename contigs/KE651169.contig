@@ -434,12 +434,10 @@ FT   gene            1..65
 FT                   /systematic_id="SJAG_16317"
 FT   tRNA            1..65
 FT                   /systematic_id="SJAG_16317"
-FT                   /product="tRNA-Thr"
 FT   gene            complement(343..414)
 FT                   /systematic_id="SJAG_16318"
 FT   tRNA            complement(343..414)
 FT                   /systematic_id="SJAG_16318"
-FT                   /product="tRNA-Pro"
 FT   assembly_gap    3502..3605
 FT                   /estimated_length=104
 FT                   /gap_type="within scaffold"
@@ -456,11 +454,9 @@ FT   gene            <36661..>37032
 FT                   /systematic_id="SJAG_05161"
 FT   mRNA            <36661..>37032
 FT                   /systematic_id="SJAG_05161"
-FT                   /product="hypothetical protein"
 FT   CDS             <36661..37032
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_05161"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_05161"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB05017"
 FT                   /db_xref="InterPro:IPR000953"
@@ -478,11 +474,9 @@ FT   gene            <67518..>68072
 FT                   /systematic_id="SJAG_06637"
 FT   mRNA            <67518..>68072
 FT                   /systematic_id="SJAG_06637"
-FT                   /product="hypothetical protein"
 FT   CDS             67518..68072
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_06637"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_06637"
 FT                   /db_xref="EnsemblGenomes-Tr:EQC52962"
 FT                   /db_xref="UniProtKB/TrEMBL:T0S0W8"
@@ -499,12 +493,10 @@ FT   gene            80212..80311
 FT                   /systematic_id="SJAG_16319"
 FT   tRNA            80212..80311
 FT                   /systematic_id="SJAG_16319"
-FT                   /product="tRNA-Ser"
 FT   gene            complement(80589..80659)
 FT                   /systematic_id="SJAG_16320"
 FT   tRNA            complement(80589..80659)
 FT                   /systematic_id="SJAG_16320"
-FT                   /product="tRNA-Gln"
 FT   assembly_gap    81156..81830
 FT                   /estimated_length=675
 FT                   /gap_type="within scaffold"
@@ -513,7 +505,6 @@ FT   gene            complement(82564..82637)
 FT                   /systematic_id="SJAG_16321"
 FT   tRNA            complement(82564..82637)
 FT                   /systematic_id="SJAG_16321"
-FT                   /product="tRNA-Val"
 FT   assembly_gap    95874..104906
 FT                   /estimated_length=9033
 FT                   /gap_type="within scaffold"
@@ -522,22 +513,18 @@ FT   gene            104945..105016
 FT                   /systematic_id="SJAG_16322"
 FT   tRNA            104945..105016
 FT                   /systematic_id="SJAG_16322"
-FT                   /product="tRNA-Thr"
 FT   gene            complement(105290..105361)
 FT                   /systematic_id="SJAG_16323"
 FT   tRNA            complement(105290..105361)
 FT                   /systematic_id="SJAG_16323"
-FT                   /product="tRNA-Pro"
 FT   gene            106066..106137
 FT                   /systematic_id="SJAG_16324"
 FT   tRNA            106066..106137
 FT                   /systematic_id="SJAG_16324"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(106268..106339)
 FT                   /systematic_id="SJAG_16325"
 FT   tRNA            complement(106268..106339)
 FT                   /systematic_id="SJAG_16325"
-FT                   /product="tRNA-His"
 FT   assembly_gap    107330..112441
 FT                   /estimated_length=5112
 FT                   /gap_type="within scaffold"
@@ -546,37 +533,30 @@ FT   gene            112527..112620
 FT                   /systematic_id="SJAG_16326"
 FT   tRNA            112527..112620
 FT                   /systematic_id="SJAG_16326"
-FT                   /product="tRNA-Ser"
 FT   gene            complement(112785..112856)
 FT                   /systematic_id="SJAG_16327"
 FT   tRNA            complement(112785..112856)
 FT                   /systematic_id="SJAG_16327"
-FT                   /product="tRNA-Cys"
 FT   gene            113289..113382
 FT                   /systematic_id="SJAG_16328"
 FT   tRNA            113289..113382
 FT                   /systematic_id="SJAG_16328"
-FT                   /product="tRNA-Leu"
 FT   gene            complement(113539..113610)
 FT                   /systematic_id="SJAG_16329"
 FT   tRNA            complement(113539..113610)
 FT                   /systematic_id="SJAG_16329"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(113823..113915)
 FT                   /systematic_id="SJAG_16330"
 FT   tRNA            complement(113823..113915)
 FT                   /systematic_id="SJAG_16330"
-FT                   /product="tRNA-Lys"
 FT   gene            114366..114437
 FT                   /systematic_id="SJAG_16331"
 FT   tRNA            114366..114437
 FT                   /systematic_id="SJAG_16331"
-FT                   /product="tRNA-Val"
 FT   gene            115034..115128
 FT                   /systematic_id="SJAG_16332"
 FT   tRNA            115034..115128
 FT                   /systematic_id="SJAG_16332"
-FT                   /product="tRNA-Trp"
 FT   assembly_gap    115188..116898
 FT                   /estimated_length=1711
 FT                   /gap_type="within scaffold"
@@ -585,17 +565,14 @@ FT   gene            117322..117394
 FT                   /systematic_id="SJAG_16333"
 FT   tRNA            117322..117394
 FT                   /systematic_id="SJAG_16333"
-FT                   /product="tRNA-Val"
 FT   gene            117870..117971
 FT                   /systematic_id="SJAG_16334"
 FT   tRNA            117870..117971
 FT                   /systematic_id="SJAG_16334"
-FT                   /product="tRNA-Arg"
 FT   gene            complement(118866..118964)
 FT                   /systematic_id="SJAG_16335"
 FT   tRNA            complement(118866..118964)
 FT                   /systematic_id="SJAG_16335"
-FT                   /product="tRNA-Ile"
 FT   assembly_gap    120029..120128
 FT                   /estimated_length=100
 FT                   /gap_type="within scaffold"
@@ -604,72 +581,58 @@ FT   gene            120648..120740
 FT                   /systematic_id="SJAG_16336"
 FT   tRNA            120648..120740
 FT                   /systematic_id="SJAG_16336"
-FT                   /product="tRNA-Ser"
 FT   gene            complement(120901..120972)
 FT                   /systematic_id="SJAG_16337"
 FT   tRNA            complement(120901..120972)
 FT                   /systematic_id="SJAG_16337"
-FT                   /product="tRNA-Cys"
 FT   gene            121405..121498
 FT                   /systematic_id="SJAG_16338"
 FT   tRNA            121405..121498
 FT                   /systematic_id="SJAG_16338"
-FT                   /product="tRNA-Leu"
 FT   gene            complement(121656..121727)
 FT                   /systematic_id="SJAG_16339"
 FT   tRNA            complement(121656..121727)
 FT                   /systematic_id="SJAG_16339"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(121938..122030)
 FT                   /systematic_id="SJAG_16340"
 FT   tRNA            complement(121938..122030)
 FT                   /systematic_id="SJAG_16340"
-FT                   /product="tRNA-Lys"
 FT   gene            122482..122553
 FT                   /systematic_id="SJAG_16341"
 FT   tRNA            122482..122553
 FT                   /systematic_id="SJAG_16341"
-FT                   /product="tRNA-Val"
 FT   gene            123235..123329
 FT                   /systematic_id="SJAG_16342"
 FT   tRNA            123235..123329
 FT                   /systematic_id="SJAG_16342"
-FT                   /product="tRNA-Trp"
 FT   gene            123524..123595
 FT                   /systematic_id="SJAG_16343"
 FT   tRNA            123524..123595
 FT                   /systematic_id="SJAG_16343"
-FT                   /product="tRNA-Thr"
 FT   gene            complement(123868..123939)
 FT                   /systematic_id="SJAG_16344"
 FT   tRNA            complement(123868..123939)
 FT                   /systematic_id="SJAG_16344"
-FT                   /product="tRNA-Pro"
 FT   gene            125003..125074
 FT                   /systematic_id="SJAG_16345"
 FT   tRNA            125003..125074
 FT                   /systematic_id="SJAG_16345"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(125206..125277)
 FT                   /systematic_id="SJAG_16346"
 FT   tRNA            complement(125206..125277)
 FT                   /systematic_id="SJAG_16346"
-FT                   /product="tRNA-His"
 FT   gene            125709..125781
 FT                   /systematic_id="SJAG_16347"
 FT   tRNA            125709..125781
 FT                   /systematic_id="SJAG_16347"
-FT                   /product="tRNA-Val"
 FT   gene            126259..126360
 FT                   /systematic_id="SJAG_16348"
 FT   tRNA            126259..126360
 FT                   /systematic_id="SJAG_16348"
-FT                   /product="tRNA-Arg"
 FT   gene            complement(127250..127348)
 FT                   /systematic_id="SJAG_16349"
 FT   tRNA            complement(127250..127348)
 FT                   /systematic_id="SJAG_16349"
-FT                   /product="tRNA-Ile"
 FT   assembly_gap    128130..132385
 FT                   /estimated_length=4256
 FT                   /gap_type="within scaffold"
@@ -678,17 +641,14 @@ FT   gene            138393..138487
 FT                   /systematic_id="SJAG_16350"
 FT   tRNA            138393..138487
 FT                   /systematic_id="SJAG_16350"
-FT                   /product="tRNA-Trp"
 FT   gene            138684..138755
 FT                   /systematic_id="SJAG_16351"
 FT   tRNA            138684..138755
 FT                   /systematic_id="SJAG_16351"
-FT                   /product="tRNA-Thr"
 FT   gene            complement(139031..139102)
 FT                   /systematic_id="SJAG_16352"
 FT   tRNA            complement(139031..139102)
 FT                   /systematic_id="SJAG_16352"
-FT                   /product="tRNA-Pro"
 FT   assembly_gap    142760..143175
 FT                   /estimated_length=416
 FT                   /gap_type="within scaffold"
@@ -697,22 +657,18 @@ FT   gene            145280..145351
 FT                   /systematic_id="SJAG_16353"
 FT   tRNA            145280..145351
 FT                   /systematic_id="SJAG_16353"
-FT                   /product="tRNA-His"
 FT   gene            complement(145479..145550)
 FT                   /systematic_id="SJAG_16354"
 FT   tRNA            complement(145479..145550)
 FT                   /systematic_id="SJAG_16354"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(145763..145855)
 FT                   /systematic_id="SJAG_16355"
 FT   tRNA            complement(145763..145855)
 FT                   /systematic_id="SJAG_16355"
-FT                   /product="tRNA-Lys"
 FT   gene            146307..146378
 FT                   /systematic_id="SJAG_16356"
 FT   tRNA            146307..146378
 FT                   /systematic_id="SJAG_16356"
-FT                   /product="tRNA-Val"
 FT   assembly_gap    149071..149529
 FT                   /estimated_length=459
 FT                   /gap_type="within scaffold"
@@ -721,167 +677,134 @@ FT   gene            149551..149623
 FT                   /systematic_id="SJAG_16357"
 FT   tRNA            149551..149623
 FT                   /systematic_id="SJAG_16357"
-FT                   /product="tRNA-Val"
 FT   gene            150105..150206
 FT                   /systematic_id="SJAG_16358"
 FT   tRNA            150105..150206
 FT                   /systematic_id="SJAG_16358"
-FT                   /product="tRNA-Arg"
 FT   gene            complement(151095..151193)
 FT                   /systematic_id="SJAG_16359"
 FT   tRNA            complement(151095..151193)
 FT                   /systematic_id="SJAG_16359"
-FT                   /product="tRNA-Ile"
 FT   gene            complement(151672..151743)
 FT                   /systematic_id="SJAG_16360"
 FT   tRNA            complement(151672..151743)
 FT                   /systematic_id="SJAG_16360"
-FT                   /product="tRNA-His"
 FT   gene            152653..152745
 FT                   /systematic_id="SJAG_16361"
 FT   tRNA            152653..152745
 FT                   /systematic_id="SJAG_16361"
-FT                   /product="tRNA-Ser"
 FT   gene            complement(152905..152976)
 FT                   /systematic_id="SJAG_16362"
 FT   tRNA            complement(152905..152976)
 FT                   /systematic_id="SJAG_16362"
-FT                   /product="tRNA-Cys"
 FT   gene            153434..153526
 FT                   /systematic_id="SJAG_16363"
 FT   tRNA            153434..153526
 FT                   /systematic_id="SJAG_16363"
-FT                   /product="tRNA-Leu"
 FT   gene            complement(153681..153752)
 FT                   /systematic_id="SJAG_16364"
 FT   tRNA            complement(153681..153752)
 FT                   /systematic_id="SJAG_16364"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(153964..154056)
 FT                   /systematic_id="SJAG_16365"
 FT   tRNA            complement(153964..154056)
 FT                   /systematic_id="SJAG_16365"
-FT                   /product="tRNA-Lys"
 FT   gene            154507..154578
 FT                   /systematic_id="SJAG_16366"
 FT   tRNA            154507..154578
 FT                   /systematic_id="SJAG_16366"
-FT                   /product="tRNA-Val"
 FT   gene            155242..155336
 FT                   /systematic_id="SJAG_16367"
 FT   tRNA            155242..155336
 FT                   /systematic_id="SJAG_16367"
-FT                   /product="tRNA-Trp"
 FT   gene            155532..155603
 FT                   /systematic_id="SJAG_16368"
 FT   tRNA            155532..155603
 FT                   /systematic_id="SJAG_16368"
-FT                   /product="tRNA-Thr"
 FT   gene            complement(155875..155946)
 FT                   /systematic_id="SJAG_16369"
 FT   tRNA            complement(155875..155946)
 FT                   /systematic_id="SJAG_16369"
-FT                   /product="tRNA-Pro"
 FT   gene            156657..156728
 FT                   /systematic_id="SJAG_16370"
 FT   tRNA            156657..156728
 FT                   /systematic_id="SJAG_16370"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(156857..156928)
 FT                   /systematic_id="SJAG_16371"
 FT   tRNA            complement(156857..156928)
 FT                   /systematic_id="SJAG_16371"
-FT                   /product="tRNA-His"
 FT   gene            157358..157430
 FT                   /systematic_id="SJAG_16372"
 FT   tRNA            157358..157430
 FT                   /systematic_id="SJAG_16372"
-FT                   /product="tRNA-Val"
 FT   gene            157911..158012
 FT                   /systematic_id="SJAG_16373"
 FT   tRNA            157911..158012
 FT                   /systematic_id="SJAG_16373"
-FT                   /product="tRNA-Arg"
 FT   gene            complement(158900..158998)
 FT                   /systematic_id="SJAG_16374"
 FT   tRNA            complement(158900..158998)
 FT                   /systematic_id="SJAG_16374"
-FT                   /product="tRNA-Ile"
 FT   gene            complement(159476..159547)
 FT                   /systematic_id="SJAG_16375"
 FT   tRNA            complement(159476..159547)
 FT                   /systematic_id="SJAG_16375"
-FT                   /product="tRNA-His"
 FT   gene            160469..160561
 FT                   /systematic_id="SJAG_16376"
 FT   tRNA            160469..160561
 FT                   /systematic_id="SJAG_16376"
-FT                   /product="tRNA-Ser"
 FT   gene            complement(160721..160792)
 FT                   /systematic_id="SJAG_16377"
 FT   tRNA            complement(160721..160792)
 FT                   /systematic_id="SJAG_16377"
-FT                   /product="tRNA-Cys"
 FT   gene            161223..161315
 FT                   /systematic_id="SJAG_16378"
 FT   tRNA            161223..161315
 FT                   /systematic_id="SJAG_16378"
-FT                   /product="tRNA-Leu"
 FT   gene            complement(161471..161542)
 FT                   /systematic_id="SJAG_16379"
 FT   tRNA            complement(161471..161542)
 FT                   /systematic_id="SJAG_16379"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(161754..161846)
 FT                   /systematic_id="SJAG_16380"
 FT   tRNA            complement(161754..161846)
 FT                   /systematic_id="SJAG_16380"
-FT                   /product="tRNA-Lys"
 FT   gene            162292..162363
 FT                   /systematic_id="SJAG_16381"
 FT   tRNA            162292..162363
 FT                   /systematic_id="SJAG_16381"
-FT                   /product="tRNA-Val"
 FT   gene            163056..163149
 FT                   /systematic_id="SJAG_16382"
 FT   tRNA            163056..163149
 FT                   /systematic_id="SJAG_16382"
-FT                   /product="tRNA-Trp"
 FT   gene            163343..163414
 FT                   /systematic_id="SJAG_16383"
 FT   tRNA            163343..163414
 FT                   /systematic_id="SJAG_16383"
-FT                   /product="tRNA-Thr"
 FT   gene            complement(163683..163754)
 FT                   /systematic_id="SJAG_16384"
 FT   tRNA            complement(163683..163754)
 FT                   /systematic_id="SJAG_16384"
-FT                   /product="tRNA-Pro"
 FT   gene            164478..164549
 FT                   /systematic_id="SJAG_16385"
 FT   tRNA            164478..164549
 FT                   /systematic_id="SJAG_16385"
-FT                   /product="tRNA-Pro"
 FT   gene            complement(164683..164754)
 FT                   /systematic_id="SJAG_16386"
 FT   tRNA            complement(164683..164754)
 FT                   /systematic_id="SJAG_16386"
-FT                   /product="tRNA-His"
 FT   gene            165183..165255
 FT                   /systematic_id="SJAG_16387"
 FT   tRNA            165183..165255
 FT                   /systematic_id="SJAG_16387"
-FT                   /product="tRNA-Val"
 FT   gene            complement(166688..166786)
 FT                   /systematic_id="SJAG_16388"
 FT   tRNA            complement(166688..166786)
 FT                   /systematic_id="SJAG_16388"
-FT                   /product="tRNA-Ile"
 FT   gene            complement(167265..167336)
 FT                   /systematic_id="SJAG_16389"
 FT   tRNA            complement(167265..167336)
 FT                   /systematic_id="SJAG_16389"
-FT                   /product="tRNA-His"
 XX
 SQ   Sequence 168705 BP; 33375 A; 29373 C; 28025 G; 30498 T; 47434 other;
      TGTAGCTCAG TGGTAGAGGG CCTGTCTCGT AAACAGGAGG TCCAGTGTTC GAGTCACTGC        60

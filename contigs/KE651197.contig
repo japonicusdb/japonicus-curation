@@ -73,11 +73,9 @@ FT   gene            complement(<451..>2292)
 FT                   /systematic_id="SJAG_01112"
 FT   mRNA            complement(<451..>2292)
 FT                   /systematic_id="SJAG_01112"
-FT                   /product="hypothetical protein"
 FT   CDS             complement(451..2292)
 FT                   /codon_start=1
 FT                   /systematic_id="SJAG_01112"
-FT                   /product="hypothetical protein"
 FT                   /db_xref="EnsemblGenomes-Gn:SJAG_01112"
 FT                   /db_xref="EnsemblGenomes-Tr:EEB06072"
 FT                   /db_xref="GOA:B6JZS2"

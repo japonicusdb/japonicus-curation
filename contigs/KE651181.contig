@@ -105,34 +105,28 @@ FT                   /systematic_id="SJAG_16441"
 FT   tRNA            complement(212..291)
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16441"
-FT                   /product="tRNA-OTHER"
 FT   gene            complement(641..712)
 FT                   /systematic_id="SJAG_16442"
 FT   tRNA            complement(641..712)
 FT                   /systematic_id="SJAG_16442"
-FT                   /product="tRNA-Thr"
 FT   gene            6233..6318
 FT                   /systematic_id="SJAG_16443"
 FT   tRNA            6233..6318
 FT                   /systematic_id="SJAG_16443"
-FT                   /product="tRNA-Met"
 FT   gene            6341..6413
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16444"
 FT   tRNA            6341..6413
 FT                   /pseudo
 FT                   /systematic_id="SJAG_16444"
-FT                   /product="tRNA-OTHER"
 FT   gene            6578..6686
 FT                   /systematic_id="SJAG_16445"
 FT   tRNA            6578..6686
 FT                   /systematic_id="SJAG_16445"
-FT                   /product="tRNA-Leu"
 FT   gene            6762..6831
 FT                   /systematic_id="SJAG_16446"
 FT   tRNA            6762..6831
 FT                   /systematic_id="SJAG_16446"
-FT                   /product="tRNA-Glu"
 XX
 SQ   Sequence 6831 BP; 2460 A; 1282 C; 1326 G; 1763 T; 0 other;
      TCCTGGCCAA TCAAGCTTTT ATTGTTTTGT TACGTTCGGG TTTAACTTTT ATATGTATTC        60

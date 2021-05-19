@@ -82,7 +82,6 @@ FT   gene            28967..29038
 FT                   /systematic_id="SJAG_16412"
 FT   tRNA            28967..29038
 FT                   /systematic_id="SJAG_16412"
-FT                   /product="tRNA-His"
 XX
 SQ   Sequence 29137 BP; 6173 A; 6111 C; 5727 G; 6181 T; 4945 other;
      GTACAGCCCT CTGTTCGTAG TTTAGTCGAC GTTGCGGTCG GCTCACAATA TAACTAAGTG        60
