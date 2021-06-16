@@ -45,25 +45,19 @@ FT                   /organelle="mitochondrion"
 FT                   /mol_type="genomic DNA"
 FT                   /db_xref="taxon:4897"
 FT   gene            3295..7768
-FT                   /gene="rnl"
 FT   rRNA            3295..7768
 FT                   /systematic_id="SJAG_MIT01"
-FT                   /gene="rnl"
 FT                   /product="large subunit ribosomal RNA"
 FT   gene            7775..7853
-FT                   /gene="trnF(gaa)"
 FT   tRNA            7775..7853
 FT                   /systematic_id="SJAG_MIT02"
-FT                   /gene="trnF(gaa)"
 FT                   /product="tRNA-Phe"
 FT                   /anticodon="(pos:7814..7816,aa:Phe)"
 FT   gene            7916..9085
-FT                   /gene="cob"
 FT   CDS             7916..9085
 FT                   /systematic_id="SJAG_MIT03"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="cob"
 FT                   /product="apocytochrome b"
 FT                   /EC_number="1.10.2.2"
 FT                   /db_xref="GOA:Q8HMZ7"
@@ -90,12 +84,10 @@ FT                   were not resolved completely; different versions of the
 FT                   assembly are characterized by the presence of either more
 FT                   or less, direct repeats in this region."
 FT   gene            16853..23422
-FT                   /gene="cox1"
 FT   CDS             join(16853..17569,19298..19308,22558..23422)
 FT                   /systematic_id="SJAG_MIT04"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="cox1"
 FT                   /product="cytochrome c oxidase subunit 1"
 FT                   /EC_number="1.9.3.1"
 FT                   /db_xref="GOA:Q8HMZ6"
@@ -117,20 +109,16 @@ FT                   MFGLNYNETIASIQFWLLFIGVNLVFGPQHFLGLNNYPRRIPDYPDAFAGWNYISSIGS
 FT                   MITMISLILFIYILYDQFTSNRVVVNNPWILPNFFDSNPLFLEFKADTADSIEWLLTSP
 FT                   APHHSFHNLPAMS"
 FT   exon            16853..17569
-FT                   /gene="cox1"
 FT                   /number=1
 FT   intron          17570..19297
-FT                   /gene="cox1"
 FT                   /number=1
 FT                   /note="group I"
 FT   gene            17570..18571
-FT                   /gene="orf333"
 FT   CDS             17570..18571
 FT                   /systematic_id="SJAG_MIT05"
 FT                   /codon_start=1
 FT                   /transl_table=4
 FT                   /transl_except=(pos:17570..17572,aa:Met)
-FT                   /gene="orf333"
 FT                   /product="orf333"
 FT                   /db_xref="GOA:Q8HMZ5"
 FT                   /db_xref="InterPro:IPR004860"
@@ -144,19 +132,15 @@ FT                   LINAINGNIYNNNRLIELHHTCLILNIPIISSIYSHNNSYIPNNSSWFAGYFDTKGFIS
 FT                   YSFINNKPQLVISLEDKSINNVNYFVNRFNGSIIFNNSRNGLYIWHITTPKDILSFVDY
 FT                   IKIHPSRTILMNKILLCKLFFELSNLKAYAATPSSNLFKSWLSFEKRWQRKF"
 FT   exon            19298..19308
-FT                   /gene="cox1"
 FT                   /number=2
 FT   intron          19309..22557
-FT                   /gene="cox1"
 FT                   /number=2
 FT                   /note="group I"
 FT   gene            19371..20294
-FT                   /gene="orf307"
 FT   CDS             19371..20294
 FT                   /systematic_id="SJAG_MIT06"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="orf307"
 FT                   /product="orf307"
 FT                   /db_xref="GOA:Q8HMZ4"
 FT                   /db_xref="InterPro:IPR004860"
@@ -170,12 +154,10 @@ FT                   KDFDNYWLAGFSDADASFQIKLVKRSASRTEVRLNYQVDQKTDYLLCMIKNLFGGYVGH
 FT                   RGSQNTAYYGSTSYTSADKVVKYFDHYHMLSTKFINYLQWRKVYTLIKTHQHLTPKGLK
 FT                   RIQKIKSIMNSQNKYYCLLMDSINDL"
 FT   gene            21595..22440
-FT                   /gene="orf281"
 FT   CDS             21595..22440
 FT                   /systematic_id="SJAG_MIT07"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="orf281"
 FT                   /product="orf281"
 FT                   /db_xref="GOA:Q8HMZ3"
 FT                   /db_xref="InterPro:IPR004860"
@@ -189,22 +171,17 @@ FT                   PQYYELNKNIKLQTNVSLDLNNFWLTGLAERTIQFNQSSQLLNCQMYHKKNYFLSLIKN
 FT                   WFGGNIKFIPHKNIYCYNSINYSSARKILKYFDHYPLMSDRYIEYLKFRKKYIEINQIY
 FT                   "
 FT   exon            22558..23422
-FT                   /gene="cox1"
 FT                   /number=3
 FT   gene            26102..26174
-FT                   /gene="trnV(uac)"
 FT   tRNA            26102..26174
 FT                   /systematic_id="SJAG_MIT08"
-FT                   /gene="trnV(uac)"
 FT                   /product="tRNA-Val"
 FT                   /anticodon="(pos:26135..26137,aa:Val)"
 FT   gene            26226..26450
-FT                   /gene="atp9"
 FT   CDS             26226..26450
 FT                   /systematic_id="SJAG_MIT09"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="atp9"
 FT                   /product="ATP synthase F0 subunit 9"
 FT                   /EC_number="3.6.1.34"
 FT                   /db_xref="GOA:Q8HMZ2"
@@ -218,33 +195,25 @@ FT                   /protein_id="AAN37917.1"
 FT                   /translation="MAQAMKYVGAGLATIGVSGAGVGIGLIFSSLINGTSRNPSLRPQL
 FT                   FSMAILGFALTEATGLFCLMLAFLIIYAA"
 FT   gene            27274..27346
-FT                   /gene="trnI(gau)"
 FT   tRNA            27274..27346
 FT                   /systematic_id="SJAG_MIT10"
-FT                   /gene="trnI(gau)"
 FT                   /product="tRNA-Ile"
 FT                   /anticodon="(pos:27308..27310,aa:Ile)"
 FT   gene            28183..28256
-FT                   /gene="trnP(ugg)"
 FT   tRNA            28183..28256
 FT                   /systematic_id="SJAG_MIT11"
-FT                   /gene="trnP(ugg)"
 FT                   /product="tRNA-Pro"
 FT                   /anticodon="(pos:28217..28219,aa:Pro)"
 FT   gene            28261..28344
-FT                   /gene="trnS(gcu)"
 FT   tRNA            28261..28344
 FT                   /systematic_id="SJAG_MIT12"
-FT                   /gene="trnS(gcu)"
 FT                   /product="tRNA-Ser"
 FT                   /anticodon="(pos:28293..28295,aa:Ser)"
 FT   gene            31400..32209
-FT                   /gene="cox3"
 FT   CDS             31400..32209
 FT                   /systematic_id="SJAG_MIT13"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="cox3"
 FT                   /product="cytochrome c oxidase subunit 3"
 FT                   /EC_number="1.9.3.1"
 FT                   /db_xref="GOA:Q8HMZ1"
@@ -261,19 +230,15 @@ FT                   WAFFHSSLSPNIEIGAIWPPMGFENKVLNPLEIPLLNTIILLASGSTLTSAHYNFKLGN
 FT                   RSKVIRYLIATLFLSCLFLSGQYFEYSNASFTIADSVYGSTFYFLTGLHGLHIIIGTLF
 FT                   LFTSLIRIFKSQLTIQNHLGFELAIIYWHFCDIVWLFVFLFVYVWGY"
 FT   gene            33362..33433
-FT                   /gene="trnW(cca)"
 FT   tRNA            33362..33433
 FT                   /systematic_id="SJAG_MIT14"
-FT                   /gene="trnW(cca)"
 FT                   /product="tRNA-Trp"
 FT                   /anticodon="(pos:33395..33397,aa:Trp)"
 FT   gene            33528..34298
-FT                   /gene="atp6"
 FT   CDS             33528..34298
 FT                   /systematic_id="SJAG_MIT15"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="atp6"
 FT                   /product="ATP synthase F0 subunit 6"
 FT                   /EC_number="3.6.1.34"
 FT                   /db_xref="GOA:Q8HMZ0"
@@ -295,40 +260,30 @@ FT                   were not resolved completely; different versions of the
 FT                   assembly are characterized by the presence of either more
 FT                   or less, direct repeats in this region."
 FT   gene            37205..37273
-FT                   /gene="trnC(gca)"
 FT   tRNA            37205..37273
 FT                   /systematic_id="SJAG_MIT16"
-FT                   /gene="trnC(gca)"
 FT                   /product="tRNA-Cys"
 FT                   /anticodon="(pos:37235..37237,aa:Cys)"
 FT   gene            40817..40888
-FT                   /gene="trnG(ucc)"
 FT   tRNA            40817..40888
 FT                   /systematic_id="SJAG_MIT17"
-FT                   /gene="trnG(ucc)"
 FT                   /product="tRNA-Gly"
 FT                   /anticodon="(pos:40850..40852,aa:Gly)"
 FT   gene            42182..42255
-FT                   /gene="trnM(cau)e"
 FT   tRNA            42182..42255
 FT                   /systematic_id="SJAG_MIT18"
-FT                   /gene="trnM(cau)e"
 FT                   /product="tRNA-Met"
 FT                   /anticodon="(pos:42217..42219,aa:Met)"
 FT   gene            42887..42959
-FT                   /gene="trnK(uuu)"
 FT   tRNA            42887..42959
 FT                   /systematic_id="SJAG_MIT19"
-FT                   /gene="trnK(uuu)"
 FT                   /product="tRNA-Lys"
 FT                   /anticodon="(pos:42920..42922,aa:Lys)"
 FT   gene            43860..44612
-FT                   /gene="cox2"
 FT   CDS             43860..44612
 FT                   /systematic_id="SJAG_MIT20"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="cox2"
 FT                   /product="cytochrome c oxidase subunit 2"
 FT                   /EC_number="1.9.3.1"
 FT                   /db_xref="GOA:Q8HMY9"
@@ -347,123 +302,89 @@ FT                   DEVKNPSLTVKIIGRQWYWTYEYSDFLKEEGDEPIMFDSYMVPEEDLEEGQLRQLEVDN
 FT                   RLVLPVNTPIRLILTSSDVIHSWTVPAFGIKCDCVPGRLNQVYLNIDREGLFFGQCSEL
 FT                   CGVLHSSMPIAVEAVSIENFLSWLDENS"
 FT   gene            47483..47553
-FT                   /gene="trnA(ugc)"
 FT   tRNA            47483..47553
 FT                   /systematic_id="SJAG_MIT21"
-FT                   /gene="trnA(ugc)"
 FT                   /product="tRNA-Ala"
 FT                   /anticodon="(pos:47515..47517,aa:Ala)"
 FT   gene            48100..48171
-FT                   /gene="trnI(cau)"
 FT   tRNA            48100..48171
 FT                   /systematic_id="SJAG_MIT22"
-FT                   /gene="trnI(cau)"
 FT                   /product="tRNA-Ile"
 FT                   /anticodon="(pos:48133..48135,aa:Ile)"
 FT   gene            50989..51071
-FT                   /gene="trnS(uga)"
 FT   tRNA            50989..51071
 FT                   /systematic_id="SJAG_MIT23"
-FT                   /gene="trnS(uga)"
 FT                   /product="tRNA-Ser"
 FT                   /anticodon="(pos:51023..51025,aa:Ser)"
 FT   gene            51075..51146
-FT                   /gene="trnN(guu)"
 FT   tRNA            51075..51146
 FT                   /systematic_id="SJAG_MIT24"
-FT                   /gene="trnN(guu)"
 FT                   /product="tRNA-Asn"
 FT                   /anticodon="(pos:51108..51110,aa:Asn)"
 FT   gene            56642..56714
-FT                   /gene="trnT(ugu)"
 FT   tRNA            56642..56714
 FT                   /systematic_id="SJAG_MIT25"
-FT                   /gene="trnT(ugu)"
 FT                   /product="tRNA-Thr"
 FT                   /anticodon="(pos:56675..56677,aa:Thr)"
 FT   gene            56718..56791
-FT                   /gene="trnD(guc)"
 FT   tRNA            56718..56791
 FT                   /systematic_id="SJAG_MIT26"
-FT                   /gene="trnD(guc)"
 FT                   /product="tRNA-Asp"
 FT                   /anticodon="(pos:56752..56754,aa:Asp)"
 FT   gene            58249..60267
-FT                   /gene="rns"
 FT   rRNA            58249..60267
 FT                   /systematic_id="SJAG_MIT27"
-FT                   /gene="rns"
 FT                   /product="small subunit ribosomal RNA"
 FT   gene            63581..63652
-FT                   /gene="trnM(cau)f"
 FT   tRNA            63581..63652
 FT                   /systematic_id="SJAG_MIT28"
-FT                   /gene="trnM(cau)f"
 FT                   /product="tRNA-Met"
 FT                   /anticodon="(pos:63614..63616,aa:Met)"
 FT   gene            63655..63737
-FT                   /gene="trnL(uaa)"
 FT   tRNA            63655..63737
 FT                   /systematic_id="SJAG_MIT29"
-FT                   /gene="trnL(uaa)"
 FT                   /product="tRNA-Leu"
 FT                   /anticodon="(pos:63689..63691,aa:Leu)"
 FT   gene            63740..63811
-FT                   /gene="trnR(ucu)"
 FT   tRNA            63740..63811
 FT                   /systematic_id="SJAG_MIT30"
-FT                   /gene="trnR(ucu)"
 FT                   /product="tRNA-Arg"
 FT                   /anticodon="(pos:63773..63775,aa:Arg)"
 FT   gene            63815..63886
-FT                   /gene="trnE(uuc)"
 FT   tRNA            63815..63886
 FT                   /systematic_id="SJAG_MIT31"
-FT                   /gene="trnE(uuc)"
 FT                   /product="tRNA-Glu"
 FT                   /anticodon="(pos:63848..63850,aa:Glu)"
 FT   gene            complement(69171..69243)
-FT                   /gene="trnQ(uug)"
 FT   tRNA            complement(69171..69243)
 FT                   /systematic_id="SJAG_MIT32"
-FT                   /gene="trnQ(uug)"
 FT                   /product="tRNA-Gln"
 FT                   /anticodon="(pos:69208..69210,aa:Gln)"
 FT   gene            complement(69369..69450)
-FT                   /gene="trnL(uag)"
 FT   tRNA            complement(69369..69450)
 FT                   /systematic_id="SJAG_MIT33"
-FT                   /gene="trnL(uag)"
 FT                   /product="tRNA-Leu"
 FT                   /anticodon="(pos:69414..69416,aa:Leu)"
 FT   gene            70031..70101
-FT                   /gene="trnR(ucg)"
 FT   tRNA            70031..70101
 FT                   /systematic_id="SJAG_MIT34"
-FT                   /gene="trnR(ucg)"
 FT                   /product="tRNA-Arg"
 FT                   /anticodon="(pos:70063..70065,aa:Arg)"
 FT   gene            70183..70256
-FT                   /gene="trnH(gug)"
 FT   tRNA            70183..70256
 FT                   /systematic_id="SJAG_MIT35"
-FT                   /gene="trnH(gug)"
 FT                   /product="tRNA-His"
 FT                   /anticodon="(pos:70216..70218,aa:His)"
 FT   gene            complement(70265..70350)
-FT                   /gene="trnY(gua)"
 FT   tRNA            complement(70265..70350)
 FT                   /systematic_id="SJAG_MIT36"
-FT                   /gene="trnY(gua)"
 FT                   /product="tRNA-Tyr"
 FT                   /anticodon="(pos:70312..70314,aa:Tyr)"
 FT   gene            complement(74534..74692)
-FT                   /gene="atp8"
 FT   CDS             complement(74534..74692)
 FT                   /systematic_id="SJAG_MIT37"
 FT                   /codon_start=1
 FT                   /transl_table=4
-FT                   /gene="atp8"
 FT                   /product="ATP synthase F0 subunit 8"
 FT                   /EC_number="3.6.1.34"
 FT                   /db_xref="GOA:Q8HMY8"
