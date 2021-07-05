@@ -56,13 +56,12 @@ SJAG_03129		serine/threonine protein kinase
 SJAG_02961		NAD-dependent epimerase/dehydratase
 SJAG_05242		DNA-binding transcription factor, zf-GATA type
 SJAG_02860		PAS domain protein
-SJAG_02131
-SJAG_01603
+SJAG_02131		cell wall glycoside hydrolase, family 5
+SJAG_01603		GATA-like domain protein
 SJAG_03860		HECT-type ubiquitin-protein ligase E3 Ptr1-like
 SJAG_02118 		plasma membrane ThrE amino acid transmembrane transporter family protein
 SJAG_01222		major poly(A) binding protein Pabp/Pab1-related
-SJAG_00257		methyltransferase type 11
-SJAG_02538
+SJAG_02538		Lis1 homology and WD repeat protein
 SJAG_00511		Lis1 homology and WD repeat protein
 SJAG_03305		glycerol-3-phosphate O-acyltransferase Sct1/Gpt1-like
 SJAG_03446		sorting nexin, C-terminal
@@ -77,7 +76,7 @@ SJAG_00012		zinc finger C2H2-type
 SJAG_03647		zinc finger C2H2-type
 SJAG_01553		zinc finger C2H2-type
 SJAG_05358		zinc finger C2H2-type
-SJAG_00163		zinc finger C2H2-type
+SJAG_00163		DNA-binding transcription factor, zf-fungal binuclear cluster type
 SJAG_02126		CoA-dependent acyltransferase superfamily (predicted)
 SJAG_02940		CoA-dependent acyltransferase superfamily (predicted)
 SJAG_00021		CoA-dependent acyltransferase superfamily (predicted)
@@ -87,11 +86,10 @@ SJAG_00075		CoA-dependent acyltransferase superfamily (predicted)
 SJAG_01363		CoA-dependent acyltransferase superfamily (predicted)
 SJAG_03675		5'-3' exonuclease, C-terminal domain superfamily
 SJAG_01968		aspartic peptidase domain superfamily
-SJAG_05118		aspartic peptidase domain superfamily
 SJAG_03420		aspartic peptidase domain superfamily
-SJAG_00254	sxa1	aspartic protease, S. pombe Sxa1-like
-SJAG_00109	sxa3	aspartic protease, S. pombe Sxa1-like
-SJAG_02260	sxa4	aspartic protease, S. pombe Sxa1-like
+SJAG_00254		aspartic peptidase domain superfamily
+SJAG_00109		aspartic peptidase domain superfamily
+SJAG_02260		aspartic peptidase domain superfamily
 SJAG_01096		amino acid/polyamine transporter (predicted)
 SJAG_02986		amino acid/polyamine transporter (predicted)
 SJAG_02133		amino acid/polyamine transporter (predicted)
@@ -120,23 +118,22 @@ SJAG_03871		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_03790		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_04401		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_01972		nucleotide-diphospho-sugar transferase, unknown specificity
-SJAG_03150		alpha-1,3-galactosyltransferase
-SJAG_04095		alpha-1,2-galactosyltransferase
 SJAG_16452		flocculin
 SJAG_01985		flocculin
 SJAG_04448		zinc finger, CCHC-type
+SJAG_05118		zinc finger, CCHC-type, aspartic peptidase domain superfamily
 SJAG_06639		zinc finger, CCHC-type
 SJAG_01362		alcohol dehydrogenase (unknown specificity)
 SJAG_02151		alcohol dehydrogenase (unknown specificity)
 SJAG_02963		alcohol dehydrogenase (unknown specificity)
 SJAG_03196		alcohol dehydrogenase (unknown specificity)
 SJAG_03370		alcohol dehydrogenase, Adh1-like
-SJAG_01690		short chain dehydrogenase
-SJAG_03492		short chain dehydrogenase
-SJAG_04027		short chain dehydrogenase
+SJAG_01690		short chain dehydrogenase,  human DHRS7 family
+SJAG_03492		short chain dehydrogenase,  human DHRS7 family
+SJAG_04027		short chain dehydrogenase,  human DHRS7 family
 SJAG_05033		short chain dehydrogenase
-SJAG_01492		short chain dehydrogenase
-SJAG_01850		short chain dehydrogenase
+SJAG_01492		short chain dehydrogenase,  human DHRS7 family
+SJAG_01850		short chain dehydrogenase,  human DHRS7 family
 SJAG_04067		histidine phosphatase superfamily protein
 SJAG_01970		histidine phosphatase superfamily protein
 SJAG_02784		FAD/NAD(P)-binding domain superfamily
@@ -144,7 +141,7 @@ SJAG_04633		PI31 proteasome regulator, C-terminal
 SJAG_00485		alpha amylase
 SJAG_00600		serine/threonine protein phosphatase PP2A catalytic subunit Ppa1/Ppa2
 SJAG_04723		cell surface adhesion protein for conjugation
-SJAG_02767		conserved fungal multispanning membrane protein
+SJAG_02767		UPF0658 conserved fungal multispanning membrane protein
 SJAG_02216		UPF0300 family protein
 SJAG_00107	mmf1	mitochondrial matrix protein, YjgF family protein Mmf1
 SJAG_02988		ThiJ domain protein, implicated in cellular detoxification
@@ -179,7 +176,7 @@ SJAG_02580		extracellular 5'-nucleotidase, human NT5E family
 SJAG_02959		extracellular 5'-nucleotidase, human NT5E family
 SJAG_01171		cell wall glycoside hydrolase, family 5
 SJAG_05001		cell wall glycoside hydrolase, family 5
-SJAG_03824		cell wall glycoside hydrolase, family 5
+SJAG_03824		cell wall glycoside hydrolase, family 31
 SJAG_04073		conserved fungal cell surface protein, Kre9/Knh1 family
 SJAG_03521		conserved fungal cell surface protein, Kre9/Knh1 family
 SJAG_01086		conserved fungal cell surface protein, Kre9/Knh1 family
@@ -193,13 +190,15 @@ SJAG_03608		plasma membrane sugar transporter family
 SJAG_04068		plasma membrane sugar transporter family
 SJAG_01186		heat shock protein, Hsp70 family,  Ssa-like
 SJAG_04055		heat shock protein, Hsp70 family, Ssa-like
-SJAG_06597		RecQ type DNA helicase, telomeric
-SJAG_06642		RecQ type DNA helicase, telomeric
-SJAG_05353		RecQ type DNA helicase, telomeric
-SJAG_05105		RecQ type DNA helicase, telomeric
-SJAG_05173		RecQ type DNA helicase, telomeric
+SJAG_06597		RecQ type DNA helicase
+SJAG_06642		RecQ type DNA helicase
+SJAG_05353		RecQ type DNA helicase
+SJAG_05105		RecQ type DNA helicase
+SJAG_05173		RecQ type DNA helicase
 SJAG_00179		glutathione S-transferase
 SJAG_03863		glutathione S-transferase
+SJAG_00238		glutathione S-transferase
+SJAG_00257		methyltransferase type 11
 SJAG_01543		NADP-dependent oxidoreductase domain
 SJAG_03828		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
 SJAG_00027		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
@@ -215,6 +214,95 @@ SJAG_05153		mating-type transcription factor (Mc-like)
 SJAG_00673	bio3	7,8-diamino-pelargonic acid aminotransferase (DAPA)
 SJAG_01739		Dynactin subunit 4
 SJAG_00124		NRG1-like trancriptional repressor, zinc finger C2H2-type
+SJAG_01998		amino acid transporter family
+SJAG_03829		amino acid transporter family
+SJAG_02947		amino acid transporter family
+SJAG_04637		amino acid transporter family
+SJAG_04903		amino acid transporter family
+SJAG_01994		amino acid transporter family
+SJAG_03827		amino acid transporter family
+SJAG_02946		amino acid transporter family
+SJAG_01390		NFACT, RNA-binding domain
+SJAG_02155		MFS transporter superfamily
+SJAG_02735		MFS transporter superfamily
+SJAG_05325		MFS transporter superfamily
+SJAG_02060		MFS transporter superfamily
+SJAG_01033		MFS transporter superfamily
+SJAG_04828		MFS transporter superfamily
+SJAG_01923		MFS transporter superfamily
+SJAG_04715		MFS transporter superfamily
+SJAG_01336		MFS transporter superfamily
+SJAG_02962		MFS transporter superfamily
+SJAG_03079		MFS transporter superfamily
+SJAG_02139		MFS transporter superfamily
+SJAG_04716		MFS transporter superfamily
+SJAG_03039		MFS transporter superfamily
+SJAG_01636		MFS transporter superfamily
+SJAG_04829		MFS transporter superfamily
+SJAG_00232		MFS transporter superfamily
+SJAG_04983		MFS transporter superfamily
+SJAG_05178		MFS transporter superfamily
+SJAG_02834		MFS transporter superfamily
+SJAG_05182		MFS transporter superfamily
+SJAG_03652		MFS transporter superfamily
+SJAG_00445		MFS transporter superfamily
+SJAG_03644		MFS transporter superfamily
+SJAG_03373		fructose-bisphosphate aldolase, class-II
+SJAG_01310		fructose-bisphosphate aldolase, class-II
+SJAG_01078		cation efflux protein family
+SJAG_01803		cation efflux protein family
+SJAG_01594		mitochondrial fission protein TPR repeat-like
+SJAG_04714		nucleobase cation symporter family
+SJAG_02147		nucleobase cation symporter family
+SJAG_02938		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_02138		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_02956		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_05234		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_06599		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_04374		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_06576		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_00551		Rho-type GTPase activating protein, with zinc finger, LIM-type
+SJAG_02093		lysophospholipase (predicted)
+SJAG_00211		magnesium transporter NIPA
+
+SJAG_01119	ogg1	DNA N-glycosylase activity
+SJAG_01532		Heat shock factor (HSF)-type, DNA-binding
+SJAG_00310		mannan endo-1,6-alpha-mannosidase, Dfg502-like
+SJAG_04851		mannan endo-1,6-alpha-mannosidase, Dfg502-like
+SJAG_00837		armadillo fold, proteasome activator Blm10-like
+SJAG_00591		armadillo fold, proteasome activator Blm10-like
+SJAG_02625		armadillo fold, proteasome activator Blm10-like
+SJAG_05252		armadillo fold, proteasome activator Blm10-like
+SJAG_00182		trehalose 6-phosphate synthase/phosphatase complex
+SJAG_04399		Thioredoxin reductase superfamily protein
+SJAG_03398		arginase (predicted)
+SJAG_01959		But2 family protein
+SJAG_00110		But2 family protein
+SJAG_00461		enolase
+SJAG_02107		enolase
+SJAG_02369		enolase
+SJAG_00713		KH domain RNA-binding protein
+SJAG_01414		alcohol dehydrogenase, Adh1-like
+SJAG_04096		Golgi calcium and manganese antiporter Gdt1
+SJAG_04373		DNA-binding transcription factor, zf-fungal binuclear cluster type
+SJAG_00953		cortical anchoring factor, pleckstrin homology domain
+SJAG_00099		fatty acid desaturase domain protein
+SJAG_01669		P-type ATPase
+SJAG_01129		P-type ATPase
+SJAG_01874		heat shock protein, Hsp70 family, Ssb2-like
+SJAG_03360		squalene cyclase-like protein
+SJAG_00950		peptidyl-prolyl cis-trans isomeras
+SJAG_05344		zinc finger, Sec23/Sec24-type
+SJAG_05345		zinc finger, Sec23/Sec24-type
+SJAG_02463		sulfate transmembrane transporter family
+SJAG_00937		glutamate decarboxylase
+SJAG_03321		19S proteasome regulatory subunit Rpn5
+SJAG_04171		ribonuclease H superfamily protein
+SJAG_03739		inositol monophosphatase-like protein
+SJAG_02156		Ribonuclease III, endonuclease domain superfamily
+SJAG_00473		double-stranded RNA-binding domain protein (predicted)
+SJAG_00042		kinesin-like protein
+SJAG_02985		Acetyl-CoA hydrolase/transferase, C-terminal domain superfamily
 SJAG_03322	cox11	cytochrome c oxidase assembly protein Cox11
 SJAG_04695	rps10b	40S ribosomal protein S10
 SJAG_02904	rps10a	40S ribosomal protein S10
