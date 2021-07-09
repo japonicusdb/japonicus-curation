@@ -56,7 +56,6 @@ SJAG_03129		serine/threonine protein kinase
 SJAG_02961		NAD-dependent epimerase/dehydratase
 SJAG_05242		DNA-binding transcription factor, zf-GATA type
 SJAG_02860		PAS domain protein
-SJAG_02131		cell wall glycoside hydrolase, family 5
 SJAG_01603		GATA-like domain protein
 SJAG_03860		HECT-type ubiquitin-protein ligase E3 Ptr1-like
 SJAG_02118 		plasma membrane ThrE amino acid transmembrane transporter family protein
@@ -273,6 +272,7 @@ SJAG_00591		armadillo fold, proteasome activator Blm10-like
 SJAG_02625		armadillo fold, proteasome activator Blm10-like
 SJAG_05252		armadillo fold, proteasome activator Blm10-like
 SJAG_00182		trehalose 6-phosphate synthase/phosphatase complex
+SJAG_02131		alpha-glucosidase (predicted)
 SJAG_04399		Thioredoxin reductase superfamily protein
 SJAG_03398		arginase (predicted)
 SJAG_01959		But2 family protein
@@ -299,9 +299,28 @@ SJAG_03321		19S proteasome regulatory subunit Rpn5
 SJAG_04171		ribonuclease H superfamily protein
 SJAG_03739		inositol monophosphatase-like protein
 SJAG_02156		Ribonuclease III, endonuclease domain superfamily
-SJAG_00473		double-stranded RNA-binding domain protein (predicted)
+SJAG_00473		Ribonuclease III, endonuclease domain superfamily
 SJAG_00042		kinesin-like protein
 SJAG_02985		Acetyl-CoA hydrolase/transferase, C-terminal domain superfamily
+SJAG_04808		fungal WD repeat-like protein
+SJAG_04833		fungal WD repeat-like protein
+SJAG_00025		fungal WD repeat-like protein
+SJAG_02944		fungal WD repeat-like protein
+SJAG_02134		fungal WD repeat-like protein
+SJAG_01093		fungal WD repeat-like protein
+SJAG_04836		fungal WD repeat-like protein
+SJAG_04799		fungal WD repeat-like protein
+SJAG_02153		fungal WD repeat-like protein
+SJAG_02676		fungal WD repeat-like protein
+SJAG_04797		fungal WD repeat-like protein
+SJAG_04835		fungal WD repeat-like protein
+SJAG_04807		fungal WD repeat-like protein
+SJAG_04733		GTPase activating protein (predicted)
+SJAG_04095		Glycosyltransferase 34 family
+SJAG_03150	otg1	alpha-1,3-galactosyltransferase Otg2
+SJAG_04494	mrps12a	mitochondrial ribosomal protein S12 Mrps12a
+SJAG_04173	mrps12b	mitochondrial ribosomal protein S12 Mrps12b
+SJAG_04158		phosphatidylinositol-4 kinase plasma membrane scaffold Efr3-like
 SJAG_03322	cox11	cytochrome c oxidase assembly protein Cox11
 SJAG_04695	rps10b	40S ribosomal protein S10
 SJAG_02904	rps10a	40S ribosomal protein S10
@@ -318,7 +337,7 @@ SJAG_02280	rpl11a	60S ribosomal protein L11
 SJAG_01132	rps13b	40S ribosomal protein S13
 SJAG_01387	rps13a	40S ribosomal protein S13
 SJAG_03335	rpl18b	60S ribosomal protein L18
-SJAG_02597    	rpl18a	60S ribosomal protein L18
+SJAG_02597	rpl18a	60S ribosomal protein L18
 SJAG_02535	rpl12b	60S ribosomal protein L12.1/L12A
 SJAG_05248	rpl12a	60S ribosomal protein L12.1/L12A
 SJAG_01322	rpl301	60S ribosomal protein L3
@@ -371,7 +390,6 @@ SJAG_04324	rps402	40S ribosomal protein S4
 SJAG_02802	rpl27b	60S ribosomal protein L27
 SJAG_01588	rpl27a	60S ribosomal protein L27
 SJAG_04897	rpl20Aa	60S ribosomal protein L20A
-SJAG_02283	rpl20Ab	60S ribosomal protein L20A
 SJAG_01565	rpl32b	60S ribosomal protein L32
 SJAG_01580	rpl32a	60S ribosomal protein L32
 SJAG_04478	rpl15a	60S ribosomal protein L15
@@ -406,9 +424,9 @@ SJAG_02870	rps15b	40S ribosomal protein S15
 SJAG_00303	hhf3	histone H4 h4.3
 SJAG_00336	hhf1	histone H4 h4.1
 SJAG_03542	hhf2	histone H4 h4.2
-SJAG_00335	hht1	histone H3
-SJAG_03543	hht2	histone H3
-SJAG_00302	hht3	histone H3
+SJAG_00335	hht1	histone H3 h3.1
+SJAG_03543	hht2	histone H3 h3.2
+SJAG_00302	hht3	histone H3 h3.3
 SJAG_01438	eft2a	translation elongation factor 2 (EF-2) Eft2
 SJAG_05332	eft2b	translation elongation factor 2 (EF-2) Eft2
 SJAG_01851	tef102	translation elongation factor EF-1 alpha Ef1a
@@ -419,3 +437,15 @@ SJAG_03971	ubi1	ribosomal-ubiquitin fusion protein
 SJAG_02891	ubi3	ribosomal-ubiquitin fusion protein
 SJAG_01226	ubi5	ribosomal-ubiquitin fusion protein
 SJAG_02253	ubi3	ribosomal-ubiquitin fusion protein
+SJAG_02803	rps001	40S ribosomal protein S0A (p40)
+SJAG_02184	rps002	40S ribosomal protein S0B
+SJAG_02479	rps003	40S ribosomal protein S0C
+SJAG_02812	tif512	translation elongation and termination factor eIF5A (predicted)tt
+SJAG_02189	tif51	translation elongation and termination factor eIF5A (predicted)
+SJAG_02890	rrpl14b	60S ribosomal protein L14 (predicted)
+SJAG_01632	rps23b	40S ribosomal protein S23
+SJAG_02682	rps23a	40S ribosomal protein S23
+SJAG_03568	rps23c	40S ribosomal protein S23
+SJAG_01551	rpl702	60S ribosomal protein L7b involved in cytoplasmic translation
+SJAG_03425	rpl701	RNase MRP subunit, ribosomal protein L7-like Rpl701
+SJAG_04176	rpl10	60S ribosomal protein L10
