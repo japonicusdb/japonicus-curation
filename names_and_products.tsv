@@ -4,11 +4,11 @@ SJAG_04976		dubious
 SJAG_06630		dubious
 SJAG_05255		dubious
 SJAG_05889		dubious
-SJAG_04075		S. Japonicas specific protein 
-SJAG_06631	wcy1	japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
-SJAG_05729	wcy2	japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
-SJAG_05746	wcy3	japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
-SJAG_05745	wcy4	japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
+SJAG_04075		Schizosaccharomyces japonicus specific protein 
+SJAG_06631	wcy1	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
+SJAG_05729	wcy2	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
+SJAG_05746	wcy3	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
+SJAG_05745	wcy4	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines 
 SJAG_04247		transmembrane protein GPR107/GPR108-like  
 SJAG_02983		dubious 
 SJAG_06595		dubious
@@ -488,3 +488,36 @@ SJAG_03568	rps23c	40S ribosomal protein S23
 SJAG_01551	rpl702	60S ribosomal protein L7b involved in cytoplasmic translation
 SJAG_03425	rpl701	RNase MRP subunit, ribosomal protein L7-like Rpl701
 SJAG_04176	rpl10	60S ribosomal protein L10
+SJAG_03134		fungal conserved protein YML020W protein ortholog, PTHR47349 family
+SJAG_02710		Schizosaccharomyces specific family with conserved tryptophan
+SJAG_05920		Schizosaccharomyces specific family with conserved tryptophan 
+SJAG_03148		Schizosaccharomyces japonicus specific protein with predicted signal peptide
+SJAG_04045		Schizosaccharomyces japonicus specific protein
+SJAG_02195		Schizosaccharomyces japonicus specific protein
+SJAG_00351		Schizosaccharomyces japonicus specific protein
+SJAG_02159		Schizosaccharomyces japonicus specific protein
+SJAG_00672		Schizosaccharomyces japonicus specific protein
+SJAG_03439		Schizosaccharomyces japonicus disordered protein
+SJAG_01158		Schizosaccharomyces japonicus disordered protein
+SJAG_00528		Schizosaccharomyces japonicus disordered protein
+SJAG_02122		Schizosaccharomyces japonicus specific low-complexity Glycine rich protein
+SJAG_00194		Schizosaccharomyces japonicus specific protein
+SJAG_01757      	Schizosaccharomyces japonicus protein family, in between Wcy 
+SJAG_01689      	Schizosaccharomyces japonicus protein family, in between Wcy 
+SJAG_06637		transposon fragment
+SJAG_02928		transposon fragment
+SJAG_03765		transposon fragment
+SJAG_05352		transposon fragment
+SJAG_03766		transposon fragment
+SJAG_06640		ReqQ-type subtelomeric helicase fragment
+SJAG_02967		dubious
+SJAG_02966		dubious
+SJAG_00927		dubious
+SJAG_00929		dubious
+SJAG_05336		dubious
+SJAG_00994 		dubious
+SJAG_06212		dubious
+SJAG_06471		dubious
+SJAG_00862		dubious
+SJAG_03885		dubious
+SJAG_03390		dubious
