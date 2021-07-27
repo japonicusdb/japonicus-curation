@@ -2,7 +2,7 @@
 SJAG_02143      	Schizosaccharomyces specific protein, no S. pombe detected
 SJAG_06620		Schizosaccharomyces japonicus specific protein
 SJAG_00367		cell surface adhesion molecule with signal peptide (predicted)
-SJAG_04630		candidate ortholog for Meikin
+SJAG_04630		candidate Meikin ortholog
 SJAG_04636		dubious
 SJAG_03178		Schizosaccharomyces japonicus specific serine/threonine rich protein 
 SJAG_02792		Schizosaccharomyces japonicus specific protein
@@ -338,7 +338,7 @@ SJAG_01669		P-type ATPase
 SJAG_01129		P-type ATPase
 SJAG_01874		heat shock protein, Hsp70 family, Ssb2-like
 SJAG_03360		squalene cyclase-like protein
-SJAG_00950		peptidyl-prolyl cis-trans isomeras
+SJAG_00950		peptidyl-prolyl cis-trans isomerase
 SJAG_05344		zinc finger, Sec23/Sec24-type
 SJAG_05345		zinc finger, Sec23/Sec24-type
 SJAG_02463		sulfate transmembrane transporter family
@@ -530,9 +530,9 @@ SJAG_06471		dubious
 SJAG_00862		dubious
 SJAG_03885		dubious
 SJAG_03390		dubious
-SJAG_03510		Mis19 candidate ortholog
-SJAG_01815		S. pombe SPCC569.09 candidate ortholog
-SJAG_05292		Dms1 candidate ortholog (possible gene prediction error)
+SJAG_03510		candidate Mis19 ortholog
+SJAG_01815		candidate S. pombe SPCC569.09  ortholog
+SJAG_05292		candidate Dms1 ortholog (possible gene prediction error)
 SJAG_04557		Schizosaccharomyces japonicus specific protein
 SJAG_04742		Schizosaccharomyces japonicus specific protein
 SJAG_01525		Schizosaccharomyces japonicus specific protein some similarity to proteases
