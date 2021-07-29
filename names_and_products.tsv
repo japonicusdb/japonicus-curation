@@ -1,12 +1,12 @@
 #systematic_id	primary_name	product
 SJAG_02143      	Schizosaccharomyces specific protein, no S. pombe detected
 SJAG_06620		Schizosaccharomyces japonicus specific protein
-SJAG_00367		cell surface adhesion molecule with signal peptide (predicted)
+SJAG_00367		cell surface adhesion molecule with  predicted signal peptide (predicted)
 SJAG_04630		candidate Meikin ortholog
 SJAG_04636		dubious
 SJAG_03178		Schizosaccharomyces japonicus specific serine/threonine rich protein 
 SJAG_02792		Schizosaccharomyces japonicus specific protein
-SJAG_00454		Schizosaccharomyces japonicus specific protein;wq
+SJAG_00454		Schizosaccharomyces japonicus specific protein
 SJAG_03974	ecl1	extender of chronological lifespan protein Ecl1
 SJAG_06352		dubious
 SJAG_04976		dubious
@@ -538,7 +538,7 @@ SJAG_04742		Schizosaccharomyces japonicus specific protein
 SJAG_01525		Schizosaccharomyces japonicus specific protein some similarity to proteases
 SJAG_03639		Schizosaccharomyces japonicus specific protein
 SJAG_03109		dubious
-SJAG_03445		Schizosaccharomyces japonicas specific protein
+SJAG_03445		Schizosaccharomyces japonicus specific protein
 SJAG_03800		Schizosaccharomyces japonicus specific protein
 SJAG_03201		Schizosaccharomyces japonicus specific 6/7 TM domain protein family
 SJAG_03202		Schizosaccharomyces japonicus specific 6/7 TM domain protein family
@@ -560,7 +560,7 @@ SJAG_01982		Schizosaccharomyces japonicus specific disordered protein
 SJAG_00387		dubious
 SJAG_04967		Schizosaccharomyces japonicus specific disordered protein
 SJAG_02970		Schizosaccharomyces japonicus specific disordered protein
-SJAG_01306		Schizosaccharomyces japonicus specific protein with signal peptide
+SJAG_01306		Schizosaccharomyces japonicus specific protein with predicted signal peptide
 SJAG_00050		Schizosaccharomyces japonicus specific protein
 SJAG_01091		Schizosaccharomyces japonicus specific protein in duplicated region/dubious, shorter version of SJAG_00023
 SJAG_00023		Schizosaccharomyces japonicus specific protein in duplicated region/dubious, longer version of SJAG_01091
