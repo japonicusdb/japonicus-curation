@@ -98,7 +98,7 @@ SJAG_03716		WD40/YVTN repeat-like-containing domain superfamily protein
 SJAG_01947		MFS transporter superfamily
 SJAG_01445		EMP70 family endosomal transport protein/Nonaspanin-like
 SJAG_03093		BTB/POZ domain
-SJAG_02179		tRNA queuosine modification protein Qtr3
+SJAG_02179		tRNA queuosine modification protein Qtr3-like
 SJAG_06608		chromo/chromo shadow domain family
 SJAG_06641		chromo/chromo shadow domain family
 SJAG_05161		chromo/chromo shadow domain family
@@ -133,14 +133,14 @@ SJAG_05242		DNA-binding transcription factor, zf-GATA type
 SJAG_02860		PAS domain protein
 SJAG_01603		GATA-like domain protein
 SJAG_03860		HECT-type ubiquitin-protein ligase E3 Ptr1-like
-SJAG_02118 		plasma membrane ThrE amino acid transmembrane transporter family protein
+SJAG_02118		plasma membrane ThrE amino acid transmembrane transporter family protein
 SJAG_01222		major poly(A) binding protein Pabp/Pab1-related
 SJAG_02538		Lis1 homology and WD repeat protein
 SJAG_00511		Lis1 homology and WD repeat protein
 SJAG_03305		glycerol-3-phosphate O-acyltransferase Sct1/Gpt1-like
 SJAG_03446		sorting nexin, C-terminal
 SJAG_01241		PhoD-like superfamily
-SJAG_02666 		GTPase activating protein Gyp1-like
+SJAG_02666		GTPase activating protein Gyp1-like
 SJAG_02557		HMG-box protein
 SJAG_02567		FCP1 homology domain, HAD hydrolase superfamily
 SJAG_00013		zinc finger C2H2-type
@@ -256,9 +256,9 @@ SJAG_03521		conserved fungal cell surface protein, Kre9/Knh1 family
 SJAG_01086		conserved fungal cell surface protein, Kre9/Knh1 family
 SJAG_02173		conserved fungal cell surface protein, Kre9/Knh1 family
 SJAG_04525		conserved fungal cell surface protein, Kre9/Knh1 family
-SJAG_03826 		GLEYA adhesin domain
-SJAG_00239		GLEYA adhesin domain
-SJAG_01975		GLEYA adhesin domain
+SJAG_03826		cell surface glycoprotein, flocculin, GLEYA adhesin domain
+SJAG_00239		cell surface glycoprotein, flocculin, GLEYA adhesin domain
+SJAG_01975		cell surface glycoprotein, flocculin, GLEYA adhesin domain
 SJAG_02958		plasma membrane sugar transporter family
 SJAG_03608		plasma membrane sugar transporter family
 SJAG_04068		plasma membrane sugar transporter family
@@ -465,6 +465,7 @@ SJAG_04324	rps402	40S ribosomal protein S4
 SJAG_02802	rpl27b	60S ribosomal protein L27
 SJAG_01588	rpl27a	60S ribosomal protein L27
 SJAG_04897	rpl20Aa	60S ribosomal protein L20A
+SJAG_02283	rpl20Aa	60S ribosomal protein L20A
 SJAG_01565	rpl32b	60S ribosomal protein L32
 SJAG_01580	rpl32a	60S ribosomal protein L32
 SJAG_04478	rpl15a	60S ribosomal protein L15
