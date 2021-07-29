@@ -29,7 +29,7 @@ SJAG_02438		dubious, 5' UTR  of Atp19
 SJAG_02143      	Schizosaccharomyces specific protein, no S. pombe detected
 SJAG_06620		Schizosaccharomyces japonicus specific protein
 SJAG_00367		cell surface adhesion molecule with  predicted signal peptide (predicted)
-SJAG_04630		candidate Meikin ortholog
+SJAG_04630		candidate Meikin ortholog, syntenic position
 SJAG_04636		dubious
 SJAG_03178		Schizosaccharomyces japonicus specific serine/threonine rich protein 
 SJAG_02792		Schizosaccharomyces japonicus specific protein
@@ -557,9 +557,9 @@ SJAG_06471		dubious
 SJAG_00862		dubious
 SJAG_03885		dubious
 SJAG_03390		dubious
-SJAG_03510		candidate Mis19 ortholog
-SJAG_01815		candidate S. pombe SPCC569.09  ortholog
-SJAG_05292		candidate Dms1 ortholog (possible gene prediction error)
+SJAG_03510		candidate Mis19 ortholog, syntenic position
+SJAG_01815		candidate S. pombe SPCC569.09  ortholog, syntenic position
+SJAG_05292		candidate Dms1 ortholog, syntenic position (possible gene prediction error)
 SJAG_04557		Schizosaccharomyces japonicus specific protein
 SJAG_04742		Schizosaccharomyces japonicus specific protein
 SJAG_01525		Schizosaccharomyces japonicus specific protein some similarity to proteases
