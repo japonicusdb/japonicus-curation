@@ -1,5 +1,4 @@
 #systematic_id	primary_name	product
-
 SJAG_05533		Schizosaccharomyces japonicus specific protein
 SJAG_04193		cell surface protein, serine/threonine repeat
 SJAG_01723		Schizosaccharomyces japonicus specific protein
@@ -196,8 +195,8 @@ SJAG_03871		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_03790		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_04401		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_01972		nucleotide-diphospho-sugar transferase, unknown specificity
-SJAG_16452		flocculin
-SJAG_01985		flocculin
+SJAG_16452		cell surface glycoprotein, flocculin
+SJAG_01985		cell surface glycoprotein, flocculin
 SJAG_04448		zinc finger, CCHC-type
 SJAG_05118		transposon related zinc knuckle and gag-polyprotein aspartyl protease
 SJAG_06639		zinc finger, CCHC-type
@@ -623,7 +622,7 @@ SJAG_03814		Schizosaccharomyces japonicas specific protein
 SJAG_06627		Schizosaccharomyces japonicus specific protein
 SJAG_01828		Schizosaccharomyces japonicus specific protein
 SJAG_05154		mating-type homeobox protein Pi
-SJAG_02987		flocculin, Flo11-related
+SJAG_02987		cell surface glycoprotein, flocculin, Flo11-related
 SJAG_00388		Schizosaccharomyces japonicus specific protein
 SJAG_06591		Schizosaccharomyces japonicus specific protein/dubious
 SJAG_05840		dubious
