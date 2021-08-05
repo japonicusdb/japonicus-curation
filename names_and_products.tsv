@@ -1,4 +1,14 @@
 #systematic_id	primary_name	product
+SJAG_04962		candidate Iss10 ortholog 
+SJAG_00389		Schizosaccharomyces specific protein Tam13/Mug147, tandem fusion
+SJAG_04809		Schizosaccharomyces japonicus specific protein
+SJAG_06614		Schizosaccharomyces japonicus specific protein
+SJAG_06539		Schizosaccharomyces japonicus specific protein
+SJAG_02888		Schizosaccharomyces japonicus specific protein
+SJAG_00625		dubious
+SJAG_04448 		LDOC related- Zinc finger, CCHC-type
+SJAG_04805		fungal WD repeat-like protein 
+SJAG_00124		Schizosaccharomyces specific protein, S. pombe SPBC16G5.19 predicted on opposite strand, one is likely incorrect, similarity detected with tblastn (S. j 4008650-4008727) in the SPBC16G5.19 reading frame, unable to get a CDS. 
 SJAG_02161		phosphatidylglycerol phospholipase C Pgc1 /SMN complex subunit Gem6, tandem fusion
 SJAG_00519		ER membrane fatty acid alpha-oxygenase Mpo1/glucosamine-phosphate N-acetyltransferase Gna1, tandem fusion
 SJAG_05533		Schizosaccharomyces japonicus specific protein
