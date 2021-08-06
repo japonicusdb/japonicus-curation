@@ -84,6 +84,16 @@ FT                   SSNLLTQSLVVSKLWQDLLEIDVSLELNAPSSNSEEDSRVIALALKSHTKRRSILQRLL
 FT                   LCVMKTDSVSLLVSPCLTGFPSVRHQSLLPPRLSFNACRA"
 FT   mRNA            complement(<1445..>1879)
 FT                   /systematic_id="SJAG_06640"
+FT   mobile_element  complement(9553..9733)
+FT                   /systematic_id="SJATN_00223"
+FT                   /note="Tj5 partial retrotransposon"
+FT                   /SO="SO:0000186"
+FT                   /mobile_element_type="retrotransposon"
+FT   mobile_element  complement(9988..10433)
+FT                   /systematic_id="SJATN_00224"
+FT                   /note="Tj10 partial retrotransposon"
+FT                   /SO="SO:0000186"
+FT                   /mobile_element_type="retrotransposon"
 SQ   Sequence 10433 BP; 3265 A; 2221 C; 2442 G; 2505 T; 0 other;
      aaagaagcga aaacttaaaa aacccgaagg ttggaactgg ttactacgaa aggcaagcta        60
      caaaaaactc cttttaaggt ttttcccaca cccaaaaacc gacaaaccca aaaaagctta       120
