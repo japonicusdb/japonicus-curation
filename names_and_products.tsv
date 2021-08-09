@@ -1,4 +1,6 @@
 #systematic_id	primary_name	product
+SJAG_02476	mug129a	Mug129-like protein Mug129a
+SJAG_05269	mug129b	Mug129-like protein Mug129b
 SJAG_04962		candidate Iss10 ortholog 
 SJAG_00389		Schizosaccharomyces specific protein Tam13/Mug147, tandem fusion
 SJAG_04809		Schizosaccharomyces japonicus specific protein
@@ -626,7 +628,6 @@ SJAG_06596		Schizosaccharomyces japonicus specific protein
 SJAG_00658		Schizosaccharomyces japonicus specific protein
 SJAG_05632		Schizosaccharomyces japonicus specific protein
 SJAG_05201		armadillo fold, proteasome activator Blm10-like
-SJAG_02476		mug129-like
 SJAG_03304		conserved fungal family
 SJAG_05106		Schizosaccharomyces japonicus specific protein/dubious
 SJAG_06643		Schizosaccharomyces japonicus specific protein/dubious
