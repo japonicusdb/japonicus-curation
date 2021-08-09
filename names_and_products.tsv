@@ -1,4 +1,5 @@
 #systematic_id	primary_name	product
+SJAG_05750		dubious
 SJAG_02476	mug129a	Mug129-like protein Mug129a
 SJAG_05269	mug129b	Mug129-like protein Mug129b
 SJAG_04962		candidate Iss10 ortholog 
@@ -7,9 +8,9 @@ SJAG_04809		Schizosaccharomyces specific protein, S. pombe SPBC16G5.19 predicted
 SJAG_06614		Schizosaccharomyces japonicus specific protein
 SJAG_06539		Schizosaccharomyces japonicus specific protein
 SJAG_02888		Schizosaccharomyces japonicus specific protein
-SJAG_00625		dubious
+SJAG_00625		SPAC4G9.22 syntenic ortholog, no amino acid similarity (sequence or composition), possibly both are RNAs
 SJAG_04448 		LDOC related- Zinc finger, CCHC-type
-SJAG_04805		fungal WD repeat-like protein 
+SJAG_04805	gpp1	S. japonicus specific family with GPPY motif and periodic tyrosine 
 SJAG_02161		phosphatidylglycerol phospholipase C Pgc1 /SMN complex subunit Gem6, tandem fusion
 SJAG_00519		ER membrane fatty acid alpha-oxygenase Mpo1/glucosamine-phosphate N-acetyltransferase Gna1, tandem fusion
 SJAG_05533		Schizosaccharomyces japonicus specific protein
@@ -393,19 +394,19 @@ SJAG_02156		Ribonuclease III, endonuclease domain superfamily
 SJAG_00473		Ribonuclease III, endonuclease domain superfamily
 SJAG_00042		kinesin-like protein
 SJAG_02985		Acetyl-CoA hydrolase/transferase, C-terminal domain superfamily
-SJAG_04808		fungal WD repeat-like protein
-SJAG_04833		fungal WD repeat-like protein
-SJAG_00025		fungal WD repeat-like protein
-SJAG_02944		fungal WD repeat-like protein
-SJAG_02134		fungal WD repeat-like protein
-SJAG_01093		fungal WD repeat-like protein
-SJAG_04836		fungal WD repeat-like protein
-SJAG_04799		fungal WD repeat-like protein
-SJAG_02153		fungal WD repeat-like protein
-SJAG_02676		fungal WD repeat-like protein
-SJAG_04797		fungal WD repeat-like protein
-SJAG_04835		fungal WD repeat-like protein
-SJAG_04807		fungal WD repeat-like protein
+SJAG_04808	gpp2	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04833	gpp3	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_00025	gpp4	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02944	gpp5	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02134	gpp6	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_01093	gpp7	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04836	gpp8	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04799	gpp9	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02153	gpp10	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02676	gpp11	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04797	gpp12	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04835	gpp13	S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04807	gpp14	S. japonicus specific family with GPPY motif and periodic tyrosine
 SJAG_04733		GTPase activating protein (predicted)
 SJAG_04095		Glycosyltransferase 34 family
 SJAG_03150	otg3	alpha-1,3-galactosyltransferase Otg3
