@@ -3,14 +3,13 @@ SJAG_02476	mug129a	Mug129-like protein Mug129a
 SJAG_05269	mug129b	Mug129-like protein Mug129b
 SJAG_04962		candidate Iss10 ortholog 
 SJAG_00389		Schizosaccharomyces specific protein Tam13/Mug147, tandem fusion
-SJAG_04809		Schizosaccharomyces japonicus specific protein
+SJAG_04809		Schizosaccharomyces specific protein, S. pombe SPBC16G5.19 predicted on opposite strand, one is likely incorrect, similarity detected with tblastn (S. j 4008650-4008727) in the SPBC16G5.19 reading frame, unable to get a CDS.
 SJAG_06614		Schizosaccharomyces japonicus specific protein
 SJAG_06539		Schizosaccharomyces japonicus specific protein
 SJAG_02888		Schizosaccharomyces japonicus specific protein
 SJAG_00625		dubious
 SJAG_04448 		LDOC related- Zinc finger, CCHC-type
 SJAG_04805		fungal WD repeat-like protein 
-SJAG_00124		Schizosaccharomyces specific protein, S. pombe SPBC16G5.19 predicted on opposite strand, one is likely incorrect, similarity detected with tblastn (S. j 4008650-4008727) in the SPBC16G5.19 reading frame, unable to get a CDS. 
 SJAG_02161		phosphatidylglycerol phospholipase C Pgc1 /SMN complex subunit Gem6, tandem fusion
 SJAG_00519		ER membrane fatty acid alpha-oxygenase Mpo1/glucosamine-phosphate N-acetyltransferase Gna1, tandem fusion
 SJAG_05533		Schizosaccharomyces japonicus specific protein
@@ -115,7 +114,8 @@ SJAG_03716		WD40/YVTN repeat-like-containing domain superfamily protein
 SJAG_01947		MFS transporter superfamily
 SJAG_01445		EMP70 family endosomal transport protein/Nonaspanin-like
 SJAG_03093		BTB/POZ domain
-SJAG_02179		tRNA queuosine modification protein Qtr3-like
+SJAG_02179	qtr3b	tRNA queuosine modification protein Qtr3-like
+SJAG_01781	qtr3	RNA queuosine modification protein Qtr3
 SJAG_06608		chromo/chromo shadow domain family
 SJAG_06641		chromo/chromo shadow domain family
 SJAG_05161		chromo/chromo shadow domain family
@@ -211,7 +211,6 @@ SJAG_04401		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_01972		nucleotide-diphospho-sugar transferase, unknown specificity
 SJAG_16452		cell surface glycoprotein, flocculin
 SJAG_01985		cell surface glycoprotein, flocculin
-SJAG_04448		zinc finger, CCHC-type
 SJAG_05118		transposon related zinc knuckle and gag-polyprotein aspartyl protease
 SJAG_06639		zinc finger, CCHC-type
 SJAG_01362		alcohol dehydrogenase (unknown specificity)
@@ -489,8 +488,8 @@ SJAG_04478	rpl15a	60S ribosomal protein L15
 SJAG_03919	rpl15b	60S ribosomal protein L15
 SJAG_05216	rpl34b	60S ribosomal protein L34
 SJAG_01853	rpl34a	60S ribosomal protein L34
-SJAG_01366	rpl26b	40S ribosomal protein S26
-SJAG_02894	rpl26a	40S ribosomal protein S26
+SJAG_01366	rps26b	40S ribosomal protein S26
+SJAG_02894	rps26a	40S ribosomal protein S26
 SJAG_01548	rps14a	40S ribosomal protein S14
 SJAG_03424	rps14b	40S ribosomal protein S14
 SJAG_02020	rps8a	40S ribosomal protein S8
@@ -582,7 +581,7 @@ SJAG_04557		Schizosaccharomyces japonicus specific protein
 SJAG_04742		Schizosaccharomyces japonicus specific protein
 SJAG_01525		Schizosaccharomyces japonicus specific protein some similarity to proteases
 SJAG_03639		Schizosaccharomyces japonicus specific protein
-SJAG_03109		dubious
+SJAG_03109		Schizosaccharomyces japonicus specific protein
 SJAG_03445		Schizosaccharomyces japonicus specific protein
 SJAG_03800		Schizosaccharomyces japonicus specific protein
 SJAG_03201		Schizosaccharomyces japonicus specific 6/7 TM domain protein family
