@@ -46,7 +46,7 @@ SJAG_01932		Schizosaccharomyces japonicus specific protein/dubious
 SJAG_02438		dubious, 5' UTR  of Atp19
 SJAG_02143		Schizosaccharomyces specific protein, no S. pombe detected
 SJAG_06620		Schizosaccharomyces japonicus specific protein
-SJAG_00367		cell surface adhesion molecule with  predicted signal peptide (predicted)
+SJAG_00367		cell surface adhesion molecule with predicted signal peptide (predicted)
 SJAG_04630		candidate Meikin ortholog, syntenic position
 SJAG_04636		dubious
 SJAG_03178		Schizosaccharomyces japonicus specific serine/threonine rich protein
@@ -304,7 +304,7 @@ SJAG_04842		pyruvate decarboxylase family protein
 SJAG_01113		mating-type transcription factor (Pc-like)
 SJAG_05153		mating-type transcription factor (Mc-like)
 SJAG_00673	bio3	7,8-diamino-pelargonic acid aminotransferase (DAPA)
-SJAG_01739		Dynactin subunit 4
+SJAG_01739		dynactin complex subunit 4
 SJAG_00124		NRG1-like transcriptional repressor, zinc finger C2H2-type
 SJAG_01998		amino acid transporter family
 SJAG_03829		amino acid transporter family
@@ -611,7 +611,7 @@ SJAG_00050		Schizosaccharomyces japonicus specific protein
 SJAG_01091		Schizosaccharomyces japonicus specific protein in duplicated region/dubious, shorter version of SJAG_00023
 SJAG_00023		Schizosaccharomyces japonicus specific protein in duplicated region/dubious, longer version of SJAG_01091
 SJAG_06187		Schizosaccharomyces japonicus specific protein
-SJAG_04786		Schizosaccharomyces japonicus specific protein with signal peptide
+SJAG_04786		Schizosaccharomyces japonicus specific protein with predicted signal peptide
 SJAG_00258		Schizosaccharomyces japonicus specific protein
 SJAG_02365		Schizosaccharomyces japonicus specific protein
 SJAG_03727		Schizosaccharomyces japonicus specific protein
