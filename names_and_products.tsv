@@ -1,652 +1,643 @@
-#systematic_id	primary_name	product
-SJAG_06638		dubious
-SJAG_05750		dubious
-SJAG_02476	mug129a	Mug129-like protein Mug129a
-SJAG_05269	mug129b	Mug129-like protein Mug129b
-SJAG_04962		candidate Iss10 ortholog 
-SJAG_00389		Schizosaccharomyces specific protein Tam13/Mug147, tandem fusion
-SJAG_04809		Schizosaccharomyces specific protein, S. pombe SPBC16G5.19 predicted on opposite strand, one is likely incorrect, similarity detected with tblastn (S. j 4008650-4008727) in the SPBC16G5.19 reading frame, unable to get a CDS.
-SJAG_06614		Schizosaccharomyces japonicus specific protein
-SJAG_06539		Schizosaccharomyces japonicus specific protein
-SJAG_02888		Schizosaccharomyces japonicus specific protein
-SJAG_00625		SPAC4G9.22 syntenic ortholog, no amino acid similarity (sequence or composition), possibly both are RNAs
-SJAG_04448		LDOC related- Zinc finger, CCHC-type
-SJAG_04805	gpp1	S. japonicus specific family with GPPY motif and periodic tyrosine 
-SJAG_02161		phosphatidylglycerol phospholipase C Pgc1 /SMN complex subunit Gem6, tandem fusion
-SJAG_00519		ER membrane fatty acid alpha-oxygenase Mpo1/glucosamine-phosphate N-acetyltransferase Gna1, tandem fusion
-SJAG_05533		Schizosaccharomyces japonicus specific protein
-SJAG_04193		cell surface protein, serine/threonine repeat
-SJAG_01723		Schizosaccharomyces japonicus specific protein
-SJAG_00273		Schizosaccharomyces japonicus specific protein
-SJAG_05267		dubious
-SJAG_03778		dubious
-SJAG_05250		Schizosaccharomyces japonicus specific protein
-SJAG_00398		candidate S. pombe Sro1 ortholog, syntenic position, intrinsically disordered region
-SJAG_03565		candidate S. pombe SPBC1A4.04 ortholog, syntenic position, intrinsically disordered protein
-SJAG_04769		candidate S. pombe Mcp3 ortholog, syntenic position, intrinsically disordered protein
-SJAG_04730		candidate S. pombe SPAC664.13 ortholog, syntenic position, intrinsically disordered protein
-SJAG_05246		candidate S. pombe SPAC23C11.07 ortholog, syntenic position
-SJAG_06428		candidate S. pombe SPBC12C2.01c ortholog, syntenic position
-SJAG_00740		Schizosaccharomyces japonicus specific protein
-SJAG_04523		candidate S. pombe SPBC28E12.04 ortholog, syntenic position
-SJAG_01627		candidate S. pombe SPBP4H10.18c ortholog, syntenic position, intrinsically disordered protein
-SJAG_03772		candidate S. pombe Csi1 ortholog, syntenic position, intrinsically disordered protein
-SJAG_04555		candidate S. pombe Mei3 ortholog, syntenic position, intrinsically disordered protein
-SJAG_02086		candidate S. pombe Mug125 ortholog, syntenic position, intrinsically disordered protein
-SJAG_01730		Schizosaccharomyces japonicus specific intrinsically disordered protein
-SJAG_03105		candidate S. pombe  Mug98 ortholog, syntenic position, intrinsically disordered protein
-SJAG_03171		Schizosaccharomyces japonicus specific disordered protein
-SJAG_01395		Schizosaccharomyces japonicus specific disordered protein
-SJAG_03975		Schizosaccharomyces japonicus specific protein
-SJAG_06111		Schizosaccharomyces japonicus specific protein with 2 predicted transmembrane domains
-SJAG_05872		Schizosaccharomyces japonicus specific protein
-SJAG_00715		dubious, SPNCRNA.1420 syntenic position
-SJAG_01800		dubious, SPNCRNA.800  syntenic position
-SJAG_01932		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_02438		dubious, 5' UTR  of Atp19
-SJAG_02143		Schizosaccharomyces specific protein, no S. pombe detected
-SJAG_06620		Schizosaccharomyces japonicus specific protein
-SJAG_00367		cell surface adhesion molecule with predicted signal peptide (predicted)
-SJAG_04630		candidate Meikin ortholog, syntenic position
-SJAG_04636		dubious
-SJAG_03178		Schizosaccharomyces japonicus specific serine/threonine rich protein
-SJAG_02792		Schizosaccharomyces japonicus specific protein
-SJAG_00454		Schizosaccharomyces japonicus specific protein
-SJAG_03974	ecl1	extender of chronological lifespan protein Ecl1
-SJAG_06352		dubious
-SJAG_04976		dubious
-SJAG_06630		dubious
-SJAG_05255		dubious
-SJAG_05889		dubious
-SJAG_04075		Schizosaccharomyces japonicus specific protein
-SJAG_06631	wcy1	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
-SJAG_05729	wcy2	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
-SJAG_05746	wcy3	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
-SJAG_05745	wcy4	Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
-SJAG_04247		transmembrane protein GPR107/GPR108-like
-SJAG_02983		dubious
-SJAG_06595		dubious
-SJAG_06420		dubious
-SJAG_06013		dubious
-SJAG_05617		dubious
-SJAG_06600		dubious
-SJAG_04254		dubious
-SJAG_00121		dubious
-SJAG_01904		dubious
-SJAG_03610		dubious
-SJAG_06616	pll1	PLLLP motif protein
-SJAG_04834	pll2	PLLLP motif protein
-SJAG_06615	pll3	PLLLP motif protein
-SJAG_04804	pll4	PLLLP motif protein
-SJAG_04801	pll5	PLLLP motif protein
-SJAG_02677	pll6	PLLLP motif protein
-SJAG_02675	pll7	PLLLP motif protein
-SJAG_04798	pll8	PLLLP motif protein
-SJAG_04382	pll9	PLLLP motif protein
-SJAG_00026	pll10	PLLLP motif protein
-SJAG_03607	pll11	PLLLP motif protein
-SJAG_02108	pll12	PLLLP motif protein
-SJAG_04796	pll13	PLLLP motif protein
-SJAG_00780	pll14	PLLLP motif protein
-SJAG_00709	pll15	PLLLP motif protein
-SJAG_01965	pll16	PLLLP motif protein
-SJAG_00708	pll17	PLLLP motif protein
-SJAG_03749	pll18	PLLLP motif protein
-SJAG_00113	dil1	meiotic dynein intermediate light chain Dli1/Dil1
-SJAG_06382	ymr31	mitochondrial alpha-ketoglutarate dehydrogenase Ymr1 (predicted)
-SJAG_05629	cox7	cytochrome c oxidase subunit VII Cox7
-SJAG_05256		CENP-V, S-(hydroxymethyl)glutathione synthase activity
-SJAG_16460		DNA polymerase X family
-SJAG_06002		NDUFA4 mitochondrial complex associated
-SJAG_03816		transmembrane protein GPR107/GPR108-like
-SJAG_03203		transmembrane protein GPR107/GPR108-like
-SJAG_02837		BRCT domain protein Brc1-like
-SJAG_00675		SEL1 repeat protein
-SJAG_00847		mitochondrial PPR repeat protein
-SJAG_01845		glutamine synthetase family
-SJAG_04365		SERF, N-terminal (4F5-like)
-SJAG_04678		aminotransferase, class I/classII
-SJAG_00097		aminotransferase, class I/classII
-SJAG_01905		cytochrome b5-like heme/steroid binding domain superfamily
-SJAG_00510		ING family zinc finger, PHD-type
-SJAG_02345		mitochondrial carrier, unknown specificity
-SJAG_03650		mitochondrial carrier, unknown specificity
-SJAG_02328		HAD-superfamily hydrolase, subfamily IIA
-SJAG_03716		WD40/YVTN repeat-like-containing domain superfamily protein
-SJAG_01947		MFS transporter superfamily
-SJAG_01445		EMP70 family endosomal transport protein/Nonaspanin-like
-SJAG_03093		BTB/POZ domain
-SJAG_02179	qtr3b	tRNA queuosine modification protein Qtr3-like
-SJAG_01781	qtr3	RNA queuosine modification protein Qtr3
-SJAG_06608		chromo/chromo shadow domain family
-SJAG_06641		chromo/chromo shadow domain family
-SJAG_05161		chromo/chromo shadow domain family
-SJAG_04831		DUF4646 family conserved fungal protein
-SJAG_01246		cyclophilin-type peptidyl-prolyl cis-trans isomerase
-SJAG_03058		actin-like protein
-SJAG_00450		protein N-terminal glutamine amidohydrolase, alpha beta roll superfamily
-SJAG_05050		retrotransposon gag domain
-SJAG_05143		retrotransposon gag domain
-SJAG_16458		retrotransposon gag domain
-SJAG_04458		Gfo/Idh/MocA-like oxidoreductase, N-terminal
-SJAG_02154		Gfo/Idh/MocA-like oxidoreductase, N-terminal
-SJAG_02191		Gfo/Idh/MocA-like oxidoreductase, N-terminal
-SJAG_02124		cobalamin (vitamin B12) biosynthesis CobW-like protein
-SJAG_06431		zinc finger CCHC domain-containing protein
-SJAG_01309		GEF Vps domain, PX domain
-SJAG_02395		flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
-SJAG_02948		ribonucleoside-triphosphate reductase, anaerobic
-SJAG_02459		zinc finger, CCCH-type
-SJAG_01953		DEAD/DEAH box helicase
-SJAG_01450		zinc finger, MIZ-type
-SJAG_04662		UBX domain protein
-SJAG_04329		DENN domain
-SJAG_03759		histidine phosphatase superfamily protein
-SJAG_05231		serine/threonine protein kinase
-SJAG_04761		serine/threonine protein kinase
-SJAG_00004		serine/threonine protein kinase
-SJAG_02249		serine/threonine protein kinase
-SJAG_03129		serine/threonine protein kinase
-SJAG_02961		NAD-dependent epimerase/dehydratase
-SJAG_05242		DNA-binding transcription factor, zf-GATA type
-SJAG_02860		PAS domain protein
-SJAG_01603		GATA-like domain protein
-SJAG_03860		HECT-type ubiquitin-protein ligase E3 Ptr1-like
-SJAG_02118		plasma membrane ThrE amino acid transmembrane transporter family protein
-SJAG_01222		major poly(A) binding protein Pabp/Pab1-related
-SJAG_02538		Lis1 homology and WD repeat protein
-SJAG_00511		Lis1 homology and WD repeat protein
-SJAG_03305		glycerol-3-phosphate O-acyltransferase Sct1/Gpt1-like
-SJAG_03446		sorting nexin, C-terminal
-SJAG_01241		PhoD-like superfamily
-SJAG_02666		GTPase activating protein Gyp1-like
-SJAG_02557		HMG-box protein
-SJAG_02567		FCP1 homology domain, HAD hydrolase superfamily
-SJAG_00013		zinc finger C2H2-type
-SJAG_05354		zinc finger C2H2-type
-SJAG_00007		zinc finger C2H2-type
-SJAG_00012		zinc finger C2H2-type
-SJAG_03647		zinc finger C2H2-type
-SJAG_01553		zinc finger C2H2-type
-SJAG_05358		zinc finger C2H2-type
-SJAG_00163		DNA-binding transcription factor, zf-fungal binuclear cluster type
-SJAG_02126		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_02940		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_00021		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_02127		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_00020		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_00075		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_01363		CoA-dependent acyltransferase superfamily (predicted)
-SJAG_03675		5'-3' exonuclease, C-terminal domain superfamily
-SJAG_01968		aspartic peptidase domain superfamily
-SJAG_03420		aspartic peptidase domain superfamily
-SJAG_00254		aspartic peptidase domain superfamily
-SJAG_00109		aspartic peptidase domain superfamily
-SJAG_02260		aspartic peptidase domain superfamily
-SJAG_01096		amino acid/polyamine transporter (predicted)
-SJAG_02986		amino acid/polyamine transporter (predicted)
-SJAG_02133		amino acid/polyamine transporter (predicted)
-SJAG_06598		amino acid/polyamine transporter (predicted)
-SJAG_00015		amino acid/polyamine transporter (predicted)
-SJAG_04135		amino acid/polyamine transporter (predicted)
-SJAG_02113		amino acid/polyamine transporter (predicted)
-SJAG_02941		amino acid/polyamine transporter (predicted)
-SJAG_00019		amino acid/polyamine transporter (predicted)
-SJAG_02957		RTA-like protein
-SJAG_02132		RTA-like protein
-SJAG_02581		RTA-like protein
-SJAG_00018		RTA-like protein
-SJAG_00587		RTA-like protein
-SJAG_01095		RTA-like protein
-SJAG_00589		RTA-like protein
-SJAG_02114		RTA-like protein
-SJAG_02943		RTA-like protein
-SJAG_00242		Aldo-keto reductase family protein
-SJAG_03821		Aldo-keto reductase family protein
-SJAG_02010		Aldo-keto reductase familiy protein
-SJAG_03063		Alpha/Beta hydrolase fold
-SJAG_00165		Alpha/Beta hydrolase fold
-SJAG_04105		Alpha/Beta hydrolase fold
-SJAG_03871		nucleotide-diphospho-sugar transferase, unknown specificity
-SJAG_03790		nucleotide-diphospho-sugar transferase, unknown specificity
-SJAG_04401		nucleotide-diphospho-sugar transferase, unknown specificity
-SJAG_01972		nucleotide-diphospho-sugar transferase, unknown specificity
-SJAG_16452		cell surface glycoprotein, flocculin
-SJAG_01985		cell surface glycoprotein, flocculin
-SJAG_05118		transposon related zinc knuckle and gag-polyprotein aspartyl protease
-SJAG_06639		zinc finger, CCHC-type
-SJAG_01362		alcohol dehydrogenase (unknown specificity)
-SJAG_02151		alcohol dehydrogenase (unknown specificity)
-SJAG_02963		alcohol dehydrogenase (unknown specificity)
-SJAG_03196		alcohol dehydrogenase (unknown specificity)
-SJAG_03370		alcohol dehydrogenase, Adh1-like
-SJAG_01690		short chain dehydrogenase,  human DHRS7 family
-SJAG_03492		short chain dehydrogenase,  human DHRS7 family
-SJAG_04027		short chain dehydrogenase,  human DHRS7 family
-SJAG_05033		short chain dehydrogenase
-SJAG_01492		short chain dehydrogenase,  human DHRS7 family
-SJAG_01850		short chain dehydrogenase,  human DHRS7 family
-SJAG_04067		histidine phosphatase superfamily protein
-SJAG_01970		histidine phosphatase superfamily protein
-SJAG_02784		FAD/NAD(P)-binding domain superfamily
-SJAG_04633		PI31 proteasome regulator, C-terminal
-SJAG_00485		alpha amylase
-SJAG_00600		serine/threonine protein phosphatase PP2A catalytic subunit Ppa1/Ppa2
-SJAG_04723		cell surface adhesion protein for conjugation
-SJAG_02767		UPF0658 conserved fungal multispanning membrane protein
-SJAG_02216		UPF0300 family protein
-SJAG_00107	mmf1	mitochondrial matrix protein, YjgF family protein Mmf1
-SJAG_02988		ThiJ domain protein, implicated in cellular detoxification
-SJAG_02794		NADPH-hemoprotein reductase
-SJAG_03323	gem2	SMN complex subunit Yip1/Gem2
-SJAG_00960		con-6 family conserved fungal protein
-SJAG_04295		cysteine transmembrane transporter
-SJAG_04743	frp1	plasma membrane ferric-chelate reductase
-SJAG_00161		Velum formation protein 1-like conserved fungal family
-SJAG_02984		histidine phosphatase superfamily protein
-SJAG_03049	wwm1	WW domain protein Wwm1
-SJAG_04242		metal-dependent phosphatase involved in cellular detoxification/metabolite repair (predicted)
-SJAG_02973		trans-aconitate 3-methyltransferase
-SJAG_03613		zinc finger, RING-type, Rad16-like
-SJAG_00500		zinc finger, RING-type, Rad16-like
-SJAG_03818		UDP-glucose 4-epimerase/aldose 1-epimerase
-SJAG_02951		UDP-glucose 4-epimerase/aldose 1-epimerase
-SJAG_04010	spo7a	Arf GEF Spo7
-SJAG_02248	spo7b	Arf GEF Spo7
-SJAG_03822		alcohol dehydrogenase Adh4-like
-SJAG_00240		alcohol dehydrogenase Adh4-like
-SJAG_04404		glyoxylase III Sdj1-like
-SJAG_02106		glyoxylase III Sdj1-like
-SJAG_02952		nucleolar RNA-binding protein NIFK
-SJAG_00949		nucleolar RNA-binding protein NIFK
-SJAG_04567		heat shock protein Hsp16-family
-SJAG_03815		heat shock protein Hsp16-family
-SJAG_02047		TENA/THI family protein, domain found in context with a broad range of enzymes
-SJAG_01742		TENA/THI family protein, domain found in context with a broad range of enzymes
-SJAG_01973		plasma membrane fluoride export channel
-SJAG_02580		extracellular 5'-nucleotidase, human NT5E family
-SJAG_02959		extracellular 5'-nucleotidase, human NT5E family
-SJAG_01171		cell wall glycoside hydrolase, family 5
-SJAG_05001		cell wall glycoside hydrolase, family 5
-SJAG_03824		cell wall glycoside hydrolase, family 31
-SJAG_04073		conserved fungal cell surface protein, Kre9/Knh1 family
-SJAG_03521		conserved fungal cell surface protein, Kre9/Knh1 family
-SJAG_01086		conserved fungal cell surface protein, Kre9/Knh1 family
-SJAG_02173		conserved fungal cell surface protein, Kre9/Knh1 family
-SJAG_04525		conserved fungal cell surface protein, Kre9/Knh1 family
-SJAG_03826		cell surface glycoprotein, flocculin, GLEYA adhesin domain
-SJAG_00239		cell surface glycoprotein, flocculin, GLEYA adhesin domain
-SJAG_01975		cell surface glycoprotein, flocculin, GLEYA adhesin domain
-SJAG_02958		plasma membrane sugar transporter family
-SJAG_03608		plasma membrane sugar transporter family
-SJAG_04068		plasma membrane sugar transporter family
-SJAG_01186		heat shock protein, Hsp70 family,  Ssa-like
-SJAG_04055		heat shock protein, Hsp70 family, Ssa-like
-SJAG_06597		RecQ type DNA helicase
-SJAG_06642		RecQ type DNA helicase
-SJAG_05353		RecQ type DNA helicase
-SJAG_05105		RecQ type DNA helicase
-SJAG_05173		RecQ type DNA helicase
-SJAG_00179		glutathione S-transferase
-SJAG_03863		glutathione S-transferase
-SJAG_00238		glutathione S-transferase
-SJAG_00257		methyltransferase type 11
-SJAG_01543		NADP-dependent oxidoreductase domain
-SJAG_03828		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_00027		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_02945		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_02135		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_03903		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_06622		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_06621		glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
-SJAG_02734		pyruvate decarboxylase family protein
-SJAG_04842		pyruvate decarboxylase family protein
-SJAG_01113		mating-type transcription factor (Pc-like)
-SJAG_05153		mating-type transcription factor (Mc-like)
-SJAG_00673	bio3	7,8-diamino-pelargonic acid aminotransferase (DAPA)
-SJAG_01739		dynactin complex subunit 4
-SJAG_00124		NRG1-like transcriptional repressor, zinc finger C2H2-type
-SJAG_01998		amino acid transporter family
-SJAG_03829		amino acid transporter family
-SJAG_02947		amino acid transporter family
-SJAG_04637		amino acid transporter family
-SJAG_04903		amino acid transporter family
-SJAG_01994		amino acid transporter family
-SJAG_03827		amino acid transporter family
-SJAG_02946		amino acid transporter family
-SJAG_01390		NFACT, RNA-binding domain
-SJAG_02155		MFS transporter superfamily
-SJAG_02735		MFS transporter superfamily
-SJAG_05325		MFS transporter superfamily
-SJAG_02060		MFS transporter superfamily
-SJAG_01033		MFS transporter superfamily
-SJAG_04828		MFS transporter superfamily
-SJAG_01923		MFS transporter superfamily
-SJAG_04715		MFS transporter superfamily
-SJAG_01336		MFS transporter superfamily
-SJAG_02962		MFS transporter superfamily
-SJAG_03079		MFS transporter superfamily
-SJAG_02139		MFS transporter superfamily
-SJAG_04716		MFS transporter superfamily
-SJAG_03039		MFS transporter superfamily
-SJAG_01636		MFS transporter superfamily
-SJAG_04829		MFS transporter superfamily
-SJAG_00232		MFS transporter superfamily
-SJAG_04983		MFS transporter superfamily
-SJAG_05178		MFS transporter superfamily
-SJAG_02834		MFS transporter superfamily
-SJAG_05182		MFS transporter superfamily
-SJAG_03652		MFS transporter superfamily
-SJAG_00445		MFS transporter superfamily
-SJAG_03644		MFS transporter superfamily
-SJAG_03373		fructose-bisphosphate aldolase, class-II
-SJAG_01310		fructose-bisphosphate aldolase, class-II
-SJAG_01078		cation efflux protein family
-SJAG_01803		cation efflux protein family
-SJAG_01594		mitochondrial fission protein TPR repeat-like
-SJAG_04714		nucleobase cation symporter family
-SJAG_02147		nucleobase cation symporter family
-SJAG_02938		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_02138		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_02956		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_05234		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_06599		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_04374		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_06576		DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
-SJAG_00551		Rho-type GTPase activating protein, with zinc finger, LIM-type
-SJAG_02093		lysophospholipase (predicted)
-SJAG_00211		magnesium transporter NIPA
-SJAG_01119	ogg1	DNA N-glycosylase activity
-SJAG_01532		Heat shock factor (HSF)-type, DNA-binding
-SJAG_00310		mannan endo-1,6-alpha-mannosidase, Dfg502-like
-SJAG_04851		mannan endo-1,6-alpha-mannosidase, Dfg502-like
-SJAG_00837		armadillo fold, proteasome activator Blm10-like
-SJAG_00591		armadillo fold, proteasome activator Blm10-like
-SJAG_02625		armadillo fold, proteasome activator Blm10-like
-SJAG_05252		armadillo fold, proteasome activator Blm10-like
-SJAG_00182		trehalose 6-phosphate synthase/phosphatase complex
-SJAG_02131		alpha-glucosidase (predicted)
-SJAG_04399		Thioredoxin reductase superfamily protein
-SJAG_03398		arginase (predicted)
-SJAG_01959		But2 family protein
-SJAG_00110		But2 family protein
-SJAG_00461		enolase
-SJAG_02107		enolase
-SJAG_02369		enolase
-SJAG_00713		KH domain RNA-binding protein
-SJAG_01414		alcohol dehydrogenase, Adh1-like
-SJAG_04096		Golgi calcium and manganese antiporter Gdt1
-SJAG_04373		DNA-binding transcription factor, zf-fungal binuclear cluster type
-SJAG_00953		cortical anchoring factor, pleckstrin homology domain
-SJAG_00099		fatty acid desaturase domain protein
-SJAG_01669		P-type ATPase
-SJAG_01129		P-type ATPase
-SJAG_01874		heat shock protein, Hsp70 family, Ssb2-like
-SJAG_03360		squalene cyclase-like protein
-SJAG_00950		peptidyl-prolyl cis-trans isomerase
-SJAG_05344		zinc finger, Sec23/Sec24-type
-SJAG_05345		zinc finger, Sec23/Sec24-type
-SJAG_02463		sulfate transmembrane transporter family
-SJAG_00937		glutamate decarboxylase
-SJAG_03321		19S proteasome regulatory subunit Rpn5
-SJAG_04171		ribonuclease H superfamily protein
-SJAG_03739		inositol monophosphatase-like protein
-SJAG_02156		Ribonuclease III, endonuclease domain superfamily
-SJAG_00473		Ribonuclease III, endonuclease domain superfamily
-SJAG_00042		kinesin-like protein
-SJAG_02985		Acetyl-CoA hydrolase/transferase, C-terminal domain superfamily
-SJAG_04808	gpp2	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04833	gpp3	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_00025	gpp4	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_02944	gpp5	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_02134	gpp6	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_01093	gpp7	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04836	gpp8	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04799	gpp9	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_02153	gpp10	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_02676	gpp11	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04797	gpp12	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04835	gpp13	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04807	gpp14	S. japonicus specific family with GPPY motif and periodic tyrosine
-SJAG_04733		GTPase activating protein (predicted)
-SJAG_04095		Glycosyltransferase 34 family
-SJAG_03150	otg3	alpha-1,3-galactosyltransferase Otg3
-SJAG_04494	mrps12a	mitochondrial ribosomal protein S12 Mrps12a
-SJAG_04173	mrps12b	mitochondrial ribosomal protein S12 Mrps12b
-SJAG_04158		phosphatidylinositol-4 kinase plasma membrane scaffold Efr3-like
-SJAG_03322	cox11	cytochrome c oxidase assembly protein Cox11
-SJAG_04695	rps10b	40S ribosomal protein S10
-SJAG_02904	rps10a	40S ribosomal protein S10
-SJAG_00155	rpl21b	60S ribosomal protein L21
-SJAG_01202	rpl21a	60S ribosomal protein L21
-SJAG_02312	rpl8a	60S ribosomal protein L8/L2
-SJAG_00034	rpl8b	60S ribosomal protein L8/L2
-SJAG_00503	rps11a	40S ribosomal protein S11
-SJAG_00069	rps11b	40S ribosomal protein S11
-SJAG_00166	rpl35Aa	60S ribosomal protein L35A
-SJAG_04414	rpl35Ab	60S ribosomal protein L35A
-SJAG_00465	rpl11b	60S ribosomal protein L11
-SJAG_02280	rpl11a	60S ribosomal protein L11
-SJAG_01132	rps13b	40S ribosomal protein S13
-SJAG_01387	rps13a	40S ribosomal protein S13
-SJAG_03335	rpl18b	60S ribosomal protein L18
-SJAG_02597	rpl18a	60S ribosomal protein L18
-SJAG_02535	rpl12b	60S ribosomal protein L12.1/L12A
-SJAG_05248	rpl12a	60S ribosomal protein L12.1/L12A
-SJAG_01322	rpl301	60S ribosomal protein L3
-SJAG_02611	rpl302	60S ribosomal protein L3
-SJAG_03262	rps12	40S ribosomal protein S12
-SJAG_02861	rps18b	40S ribosomal protein S18
-SJAG_04188	rps18a	40S ribosomal protein S18
-SJAG_03762	rps22a	40S ribosomal protein S15a
-SJAG_01512	rps22b	40S ribosomal protein S15a
-SJAG_02510	rpl43a	60S ribosomal protein L37a
-SJAG_03043	rpl43b	60S ribosomal protein L37a
-SJAG_02335	rps19b	40S ribosomal protein S19
-SJAG_01296	rps19a	40S ribosomal protein S19
-SJAG_04066	rpl5b	60S ribosomal protein L5
-SJAG_01568	rpl5a	60S ribosomal protein L5
-SJAG_00748	rpl9b	60S ribosomal protein L9
-SJAG_00629	rpl9a	60S ribosomal protein L9
-SJAG_02207	rpl16b	60S ribosomal protein L13/L16
-SJAG_04160	rpl16a	60S ribosomal protein L13/L16
-SJAG_02522	rps1a	40S ribosomal protein S3a
-SJAG_00733	rps1b	40S ribosomal protein S3a
-SJAG_01609	rps16b	40S ribosomal protein S16
-SJAG_03422	rps16a	40S ribosomal protein S16
-SJAG_04168	rps17a	40S ribosomal protein S17
-SJAG_04204	rps17b	40S ribosomal protein S17
-SJAG_02585	rps24a	40S ribosomal protein S24
-SJAG_00468	rps24b	40S ribosomal protein S24
-SJAG_03122	rpl1b	60S ribosomal protein L10a
-SJAG_02531	rpl1a	60S ribosomal protein L10a
-SJAG_04534	rpl38a	60S ribosomal protein L38
-SJAG_02081	rpl38b	60S ribosomal protein L38
-SJAG_04998		ribosomal protein S27, zinc-binding domain superfamily (S27-like)
-SJAG_00544	rps9b	40S ribosomal protein S9
-SJAG_04342	rps9a	40S ribosomal protein S9
-SJAG_03159	rpl28a	60S ribosomal protein L27/L28
-SJAG_02546	rpl28b	60S ribosomal protein L27/L28
-SJAG_03922	rpl24b	60S ribosomal protein L24
-SJAG_02243	rpl24a	60S ribosomal protein L24
-SJAG_01608	rpl13a	60S ribosomal protein L13
-SJAG_03423	rpl13b	60S ribosomal protein L13
-SJAG_03383	rpl30	60S ribosomal protein L30
-SJAG_03326	rpl37a	60S ribosomal protein L37
-SJAG_01194	rpl37b	60S ribosomal protein L37
-SJAG_01676	rpl31b	60S ribosomal protein L31
-SJAG_02755	rpl31a	60S ribosomal protein L31
-SJAG_00765	rpl19b	60S ribosomal protein L19
-SJAG_00384	rpl19a	60S ribosomal protein L19
-SJAG_04663	rps403	40S ribosomal protein S4
-SJAG_04324	rps402	40S ribosomal protein S4
-SJAG_02802	rpl27b	60S ribosomal protein L27
-SJAG_01588	rpl27a	60S ribosomal protein L27
-SJAG_04897	rpl20Aa	60S ribosomal protein L20A
-SJAG_02283	rpl20Aa	60S ribosomal protein L20A
-SJAG_01565	rpl32b	60S ribosomal protein L32
-SJAG_01580	rpl32a	60S ribosomal protein L32
-SJAG_04478	rpl15a	60S ribosomal protein L15
-SJAG_03919	rpl15b	60S ribosomal protein L15
-SJAG_05216	rpl34b	60S ribosomal protein L34
-SJAG_01853	rpl34a	60S ribosomal protein L34
-SJAG_01366	rps26b	40S ribosomal protein S26
-SJAG_02894	rps26a	40S ribosomal protein S26
-SJAG_01548	rps14a	40S ribosomal protein S14
-SJAG_03424	rps14b	40S ribosomal protein S14
-SJAG_02020	rps8a	40S ribosomal protein S8
-SJAG_04029	rps8b	40S ribosomal protein S8
-SJAG_03197	rpl23a	60S ribosomal protein L23
-SJAG_01087	rpl23b	60S ribosomal protein L23
-SJAG_01364	rpl14	60S ribosomal protein L14
-SJAG_04672	rps25	40S ribosomal protein S25
-SJAG_01721	rpl17a	60S ribosomal protein L17
-SJAG_00940	rpl17b	60S ribosomal protein L17
-SJAG_03034	rps6b	40S ribosomal protein S6
-SJAG_03859	rps6a	40S ribosomal protein S6
-SJAG_02840	rpl25b	60S ribosomal protein L25
-SJAG_04304	rpl25a	60S ribosomal protein L25
-SJAG_06612	rpl4	60S ribosomal protein L4
-SJAG_02121	rpl36a	60S ribosomal protein L36
-SJAG_03133	rpl36b	60S ribosomal protein L36
-SJAG_01128	rpp202	ribosomal protein P2
-SJAG_02871	rpp203	ribosomal protein P2
-SJAG_04020	rpp1b	ribosomal protein P1
-SJAG_01411	rpp1a	ribosomal protein P1
-SJAG_04256	rps15a	40S ribosomal protein S15
-SJAG_02870	rps15b	40S ribosomal protein S15
-SJAG_00303	hhf3	histone H4 h4.3
-SJAG_00336	hhf1	histone H4 h4.1
-SJAG_03542	hhf2	histone H4 h4.2
-SJAG_00335	hht1	histone H3 h3.1
-SJAG_03543	hht2	histone H3 h3.2
-SJAG_00302	hht3	histone H3 h3.3
-SJAG_01438	eft2a	translation elongation factor 2 (EF-2) Eft2
-SJAG_05332	eft2b	translation elongation factor 2 (EF-2) Eft2
-SJAG_01851	tef102	translation elongation factor EF-1 alpha Ef1a
-SJAG_02180	tef101	translation elongation factor EF-1 alpha Ef1a
-SJAG_04157	tef103	translation elongation factor EF-1 alpha Ef1a
-SJAG_01365	ubi2	ribosomal-ubiquitin fusion protein
-SJAG_03971	ubi1	ribosomal-ubiquitin fusion protein
-SJAG_02891	ubi3	ribosomal-ubiquitin fusion protein
-SJAG_01226	ubi5	ribosomal-ubiquitin fusion protein
-SJAG_02253	ubi3	ribosomal-ubiquitin fusion protein
-SJAG_02803	rps001	40S ribosomal protein S0A (p40)
-SJAG_02184	rps002	40S ribosomal protein S0B
-SJAG_02479	rps003	40S ribosomal protein S0C
-SJAG_02812	tif512	translation elongation and termination factor eIF5A (predicted)tt
-SJAG_02189	tif51	translation elongation and termination factor eIF5A (predicted)
-SJAG_02890	rpl14b	60S ribosomal protein L14 (predicted)
-SJAG_01632	rps23b	40S ribosomal protein S23
-SJAG_02682	rps23a	40S ribosomal protein S23
-SJAG_03568	rps23c	40S ribosomal protein S23
-SJAG_01551	rpl702	60S ribosomal protein L7b involved in cytoplasmic translation
-SJAG_03425	rpl701	RNase MRP subunit, ribosomal protein L7-like Rpl701
-SJAG_04176	rpl10	60S ribosomal protein L10
-SJAG_03134		fungal conserved protein YML020W protein ortholog, PTHR47349 family
-SJAG_02710		Schizosaccharomyces specific family with conserved tryptophan
-SJAG_05920		Schizosaccharomyces specific family with conserved tryptophan
-SJAG_03148		Schizosaccharomyces japonicus specific protein with predicted signal peptide
-SJAG_04045		Schizosaccharomyces japonicus specific protein
-SJAG_02195		Schizosaccharomyces japonicus specific protein
-SJAG_00351		Schizosaccharomyces japonicus specific protein
-SJAG_02159		Schizosaccharomyces japonicus specific protein
-SJAG_00672		Schizosaccharomyces japonicus specific protein
-SJAG_03439		Schizosaccharomyces japonicus specific disordered protein
-SJAG_01158		Schizosaccharomyces japonicus specific disordered protein
-SJAG_00528		Schizosaccharomyces japonicus specific disordered protein
-SJAG_02122		Schizosaccharomyces japonicus specific low-complexity Glycine rich protein
-SJAG_00194		Schizosaccharomyces japonicus specific protein
-SJAG_01757		Schizosaccharomyces japonicus specific protein family, in between Wcy
-SJAG_01689		Schizosaccharomyces japonicus specific protein family, in between Wcy
-SJAG_06637		transposon fragment
-SJAG_02928		transposon fragment
-SJAG_03765		transposon fragment
-SJAG_05352		transposon fragment
-SJAG_03766		transposon fragment
-SJAG_06640		ReqQ-type subtelomeric helicase fragment
-SJAG_02967		dubious
-SJAG_02966		dubious
-SJAG_00927		dubious
-SJAG_00929		dubious
-SJAG_05336		dubious
-SJAG_00994		dubious
-SJAG_06212		dubious
-SJAG_06471		dubious
-SJAG_00862		dubious
-SJAG_03885		dubious
-SJAG_03390		dubious
-SJAG_03510		candidate Mis19 ortholog, syntenic position
-SJAG_01815		candidate S. pombe SPCC569.09  ortholog, syntenic position
-SJAG_05292		candidate Dms1 ortholog, syntenic position (possible gene prediction error)
-SJAG_04557		Schizosaccharomyces japonicus specific protein
-SJAG_04742		Schizosaccharomyces japonicus specific protein
-SJAG_01525		Schizosaccharomyces japonicus specific protein some similarity to proteases
-SJAG_03639		Schizosaccharomyces japonicus specific protein
-SJAG_03109		Schizosaccharomyces japonicus specific protein
-SJAG_03445		Schizosaccharomyces japonicus specific protein
-SJAG_03800		Schizosaccharomyces japonicus specific protein
-SJAG_03201		Schizosaccharomyces japonicus specific 6/7 TM domain protein family
-SJAG_03202		Schizosaccharomyces japonicus specific 6/7 TM domain protein family
-SJAG_02190		Schizosaccharomyces japonicus specific 6/7 TM domain protein family
-SJAG_01607		dubious
-SJAG_01451		Schizosaccharomyces japonicus specific protein, possibly be part of SJAG_01450
-SJAG_04985		Taz1-like protein
-SJAG_06546		Schizosaccharomyces japonicus specific protein
-SJAG_01893		dubious
-SJAG_02893		Schizosaccharomyces japonicus specific disordered protein
-SJAG_01555		Schizosaccharomyces japonicus specific disordered protein
-SJAG_03875		Schizosaccharomyces japonicus specific disordered protein
-SJAG_03645		transposable element related protein
-SJAG_00006		transposable element zinc finger related protein
-SJAG_01552		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_02925		Schizosaccharomyces japonicus specific disordered protein
-SJAG_04269		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_01982		Schizosaccharomyces japonicus specific disordered protein
-SJAG_00387		dubious
-SJAG_04967		Schizosaccharomyces japonicus specific disordered protein
-SJAG_02970		Schizosaccharomyces japonicus specific disordered protein
-SJAG_01306		Schizosaccharomyces japonicus specific protein with predicted signal peptide
-SJAG_00050		Schizosaccharomyces japonicus specific protein
-SJAG_01091		Schizosaccharomyces japonicus specific protein in duplicated region/dubious, shorter version of SJAG_00023
-SJAG_00023		Schizosaccharomyces japonicus specific protein in duplicated region/dubious, longer version of SJAG_01091
-SJAG_06187		Schizosaccharomyces japonicus specific protein
-SJAG_04786		Schizosaccharomyces japonicus specific protein with predicted signal peptide
-SJAG_00258		Schizosaccharomyces japonicus specific protein
-SJAG_02365		Schizosaccharomyces japonicus specific protein
-SJAG_03727		Schizosaccharomyces japonicus specific protein
-SJAG_05404		Schizosaccharomyces japonicus specific protein
-SJAG_04057		Schizosaccharomyces japonicus specific protein
-SJAG_01273		Schizosaccharomyces japonicus specific protein
-SJAG_01340		Schizosaccharomyces japonicus specific protein
-SJAG_05028		Schizosaccharomyces japonicus specific protein
-SJAG_02577		Schizosaccharomyces japonicus specific disordered protein
-SJAG_06204		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_06587		dubious
-SJAG_00016		dubious
-SJAG_05254		amino acid/polyamine transporter
-SJAG_06596		Schizosaccharomyces japonicus specific protein
-SJAG_00658		Schizosaccharomyces japonicus specific protein
-SJAG_05632		Schizosaccharomyces japonicus specific protein
-SJAG_05201		armadillo fold, proteasome activator Blm10-like
-SJAG_03304		conserved fungal family
-SJAG_05106		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_06643		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_03814		Schizosaccharomyces japonicus specific protein
-SJAG_06627		Schizosaccharomyces japonicus specific protein
-SJAG_01828		Schizosaccharomyces japonicus specific protein
-SJAG_05154		mating-type homeobox protein Pi
-SJAG_02987		cell surface glycoprotein, flocculin, Flo11-related
-SJAG_00388		Schizosaccharomyces japonicus specific protein
-SJAG_06591		Schizosaccharomyces japonicus specific protein/dubious
-SJAG_05840		dubious
-SJAG_05233		dubious
-
-
-
-
-
-
-
-
-
+#systematic_id	primary_name	synonyms	product
+SJAG_06638			dubious
+SJAG_05750			dubious
+SJAG_02476	mug129a		Mug129-like protein Mug129a
+SJAG_05269	mug129b		Mug129-like protein Mug129b
+SJAG_04962			candidate Iss10 ortholog
+SJAG_00389			Schizosaccharomyces specific protein Tam13/Mug147, tandem fusion
+SJAG_04809			Schizosaccharomyces specific protein, S. pombe SPBC16G5.19 predicted on opposite strand, one is likely incorrect, similarity detected with tblastn (S. j 4008650-4008727) in the SPBC16G5.19 reading frame, unable to get a CDS.
+SJAG_06614			Schizosaccharomyces japonicus specific protein
+SJAG_06539			Schizosaccharomyces japonicus specific protein
+SJAG_02888			Schizosaccharomyces japonicus specific protein
+SJAG_00625			SPAC4G9.22 syntenic ortholog, no amino acid similarity (sequence or composition), possibly both are RNAs
+SJAG_04448			LDOC related- Zinc finger, CCHC-type
+SJAG_04805	gpp1		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02161			phosphatidylglycerol phospholipase C Pgc1 /SMN complex subunit Gem6, tandem fusion
+SJAG_00519			ER membrane fatty acid alpha-oxygenase Mpo1/glucosamine-phosphate N-acetyltransferase Gna1, tandem fusion
+SJAG_05533			Schizosaccharomyces japonicus specific protein
+SJAG_04193			cell surface protein, serine/threonine repeat
+SJAG_01723			Schizosaccharomyces japonicus specific protein
+SJAG_00273			Schizosaccharomyces japonicus specific protein
+SJAG_05267			dubious
+SJAG_03778			dubious
+SJAG_05250			Schizosaccharomyces japonicus specific protein
+SJAG_00398			candidate S. pombe Sro1 ortholog, syntenic position, intrinsically disordered region
+SJAG_03565			candidate S. pombe SPBC1A4.04 ortholog, syntenic position, intrinsically disordered protein
+SJAG_04769			candidate S. pombe Mcp3 ortholog, syntenic position, intrinsically disordered protein
+SJAG_04730			candidate S. pombe SPAC664.13 ortholog, syntenic position, intrinsically disordered protein
+SJAG_05246			candidate S. pombe SPAC23C11.07 ortholog, syntenic position
+SJAG_06428			candidate S. pombe SPBC12C2.01c ortholog, syntenic position
+SJAG_00740			Schizosaccharomyces japonicus specific protein
+SJAG_04523			candidate S. pombe SPBC28E12.04 ortholog, syntenic position
+SJAG_01627			candidate S. pombe SPBP4H10.18c ortholog, syntenic position, intrinsically disordered protein
+SJAG_03772			candidate S. pombe Csi1 ortholog, syntenic position, intrinsically disordered protein
+SJAG_04555			candidate S. pombe Mei3 ortholog, syntenic position, intrinsically disordered protein
+SJAG_02086			candidate S. pombe Mug125 ortholog, syntenic position, intrinsically disordered protein
+SJAG_01730			Schizosaccharomyces japonicus specific intrinsically disordered protein
+SJAG_03105			candidate S. pombe  Mug98 ortholog, syntenic position, intrinsically disordered protein
+SJAG_03171			Schizosaccharomyces japonicus specific disordered protein
+SJAG_01395			Schizosaccharomyces japonicus specific disordered protein
+SJAG_03975			Schizosaccharomyces japonicus specific protein
+SJAG_06111			Schizosaccharomyces japonicus specific protein with 2 predicted transmembrane domains
+SJAG_05872			Schizosaccharomyces japonicus specific protein
+SJAG_00715			dubious, SPNCRNA.1420 syntenic position
+SJAG_01800			dubious, SPNCRNA.800  syntenic position
+SJAG_01932			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_02438			dubious, 5' UTR  of Atp19
+SJAG_02143			Schizosaccharomyces specific protein, no S. pombe detected
+SJAG_06620			Schizosaccharomyces japonicus specific protein
+SJAG_00367			cell surface adhesion molecule with predicted signal peptide (predicted)
+SJAG_04630			candidate Meikin ortholog, syntenic position
+SJAG_04636			dubious
+SJAG_03178			Schizosaccharomyces japonicus specific serine/threonine rich protein
+SJAG_02792			Schizosaccharomyces japonicus specific protein
+SJAG_00454			Schizosaccharomyces japonicus specific protein
+SJAG_03974	ecl1		extender of chronological lifespan protein Ecl1
+SJAG_06352			dubious
+SJAG_04976			dubious
+SJAG_06630			dubious
+SJAG_05255			dubious
+SJAG_05889			dubious
+SJAG_04075			Schizosaccharomyces japonicus specific protein
+SJAG_06631	wcy1		Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
+SJAG_05729	wcy2		Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
+SJAG_05746	wcy3		Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
+SJAG_05745	wcy4		Schizosaccharomyces japonicus specific protein family with conserved tryptophans cysteines and tyrosines
+SJAG_04247			transmembrane protein GPR107/GPR108-like
+SJAG_02983			dubious
+SJAG_06595			dubious
+SJAG_06420			dubious
+SJAG_06013			dubious
+SJAG_05617			dubious
+SJAG_06600			dubious
+SJAG_04254			dubious
+SJAG_00121			dubious
+SJAG_01904			dubious
+SJAG_03610			dubious
+SJAG_06616	pll1		PLLLP motif protein
+SJAG_04834	pll2		PLLLP motif protein
+SJAG_06615	pll3		PLLLP motif protein
+SJAG_04804	pll4		PLLLP motif protein
+SJAG_04801	pll5		PLLLP motif protein
+SJAG_02677	pll6		PLLLP motif protein
+SJAG_02675	pll7		PLLLP motif protein
+SJAG_04798	pll8		PLLLP motif protein
+SJAG_04382	pll9		PLLLP motif protein
+SJAG_00026	pll10		PLLLP motif protein
+SJAG_03607	pll11		PLLLP motif protein
+SJAG_02108	pll12		PLLLP motif protein
+SJAG_04796	pll13		PLLLP motif protein
+SJAG_00780	pll14		PLLLP motif protein
+SJAG_00709	pll15		PLLLP motif protein
+SJAG_01965	pll16		PLLLP motif protein
+SJAG_00708	pll17		PLLLP motif protein
+SJAG_03749	pll18		PLLLP motif protein
+SJAG_00113	dil1		meiotic dynein intermediate light chain Dli1/Dil1
+SJAG_06382	ymr31		mitochondrial alpha-ketoglutarate dehydrogenase Ymr1 (predicted)
+SJAG_05629	cox7		cytochrome c oxidase subunit VII Cox7
+SJAG_05256			CENP-V, S-(hydroxymethyl)glutathione synthase activity
+SJAG_16460			DNA polymerase X family
+SJAG_06002			NDUFA4 mitochondrial complex associated
+SJAG_03816			transmembrane protein GPR107/GPR108-like
+SJAG_03203			transmembrane protein GPR107/GPR108-like
+SJAG_02837			BRCT domain protein Brc1-like
+SJAG_00675			SEL1 repeat protein
+SJAG_00847			mitochondrial PPR repeat protein
+SJAG_01845			glutamine synthetase family
+SJAG_04365			SERF, N-terminal (4F5-like)
+SJAG_04678			aminotransferase, class I/classII
+SJAG_00097			aminotransferase, class I/classII
+SJAG_01905			cytochrome b5-like heme/steroid binding domain superfamily
+SJAG_00510			ING family zinc finger, PHD-type
+SJAG_02345			mitochondrial carrier, unknown specificity
+SJAG_03650			mitochondrial carrier, unknown specificity
+SJAG_02328			HAD-superfamily hydrolase, subfamily IIA
+SJAG_03716			WD40/YVTN repeat-like-containing domain superfamily protein
+SJAG_01947			MFS transporter superfamily
+SJAG_01445			EMP70 family endosomal transport protein/Nonaspanin-like
+SJAG_03093			BTB/POZ domain
+SJAG_02179	qtr3b		tRNA queuosine modification protein Qtr3-like
+SJAG_01781	qtr3		RNA queuosine modification protein Qtr3
+SJAG_06608			chromo/chromo shadow domain family
+SJAG_06641			chromo/chromo shadow domain family
+SJAG_05161			chromo/chromo shadow domain family
+SJAG_04831			DUF4646 family conserved fungal protein
+SJAG_01246			cyclophilin-type peptidyl-prolyl cis-trans isomerase
+SJAG_03058			actin-like protein
+SJAG_00450			protein N-terminal glutamine amidohydrolase, alpha beta roll superfamily
+SJAG_05050			retrotransposon gag domain
+SJAG_05143			retrotransposon gag domain
+SJAG_16458			retrotransposon gag domain
+SJAG_04458			Gfo/Idh/MocA-like oxidoreductase, N-terminal
+SJAG_02154			Gfo/Idh/MocA-like oxidoreductase, N-terminal
+SJAG_02191			Gfo/Idh/MocA-like oxidoreductase, N-terminal
+SJAG_02124			cobalamin (vitamin B12) biosynthesis CobW-like protein
+SJAG_06431			zinc finger CCHC domain-containing protein
+SJAG_01309			GEF Vps domain, PX domain
+SJAG_02395			flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+SJAG_02948			ribonucleoside-triphosphate reductase, anaerobic
+SJAG_02459			zinc finger, CCCH-type
+SJAG_01953			DEAD/DEAH box helicase
+SJAG_01450			zinc finger, MIZ-type
+SJAG_04662			UBX domain protein
+SJAG_04329			DENN domain
+SJAG_03759			histidine phosphatase superfamily protein
+SJAG_05231			serine/threonine protein kinase
+SJAG_04761			serine/threonine protein kinase
+SJAG_00004			serine/threonine protein kinase
+SJAG_02249			serine/threonine protein kinase
+SJAG_03129			serine/threonine protein kinase
+SJAG_02961			NAD-dependent epimerase/dehydratase
+SJAG_05242			DNA-binding transcription factor, zf-GATA type
+SJAG_02860			PAS domain protein
+SJAG_01603			GATA-like domain protein
+SJAG_03860			HECT-type ubiquitin-protein ligase E3 Ptr1-like
+SJAG_02118			plasma membrane ThrE amino acid transmembrane transporter family protein
+SJAG_01222			major poly(A) binding protein Pabp/Pab1-related
+SJAG_02538			Lis1 homology and WD repeat protein
+SJAG_00511			Lis1 homology and WD repeat protein
+SJAG_03305			glycerol-3-phosphate O-acyltransferase Sct1/Gpt1-like
+SJAG_03446			sorting nexin, C-terminal
+SJAG_01241			PhoD-like superfamily
+SJAG_02666			GTPase activating protein Gyp1-like
+SJAG_02557			HMG-box protein
+SJAG_02567			FCP1 homology domain, HAD hydrolase superfamily
+SJAG_00013			zinc finger C2H2-type
+SJAG_05354			zinc finger C2H2-type
+SJAG_00007			zinc finger C2H2-type
+SJAG_00012			zinc finger C2H2-type
+SJAG_03647			zinc finger C2H2-type
+SJAG_01553			zinc finger C2H2-type
+SJAG_05358			zinc finger C2H2-type
+SJAG_00163			DNA-binding transcription factor, zf-fungal binuclear cluster type
+SJAG_02126			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_02940			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_00021			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_02127			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_00020			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_00075			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_01363			CoA-dependent acyltransferase superfamily (predicted)
+SJAG_03675			5'-3' exonuclease, C-terminal domain superfamily
+SJAG_01968			aspartic peptidase domain superfamily
+SJAG_03420			aspartic peptidase domain superfamily
+SJAG_00254			aspartic peptidase domain superfamily
+SJAG_00109			aspartic peptidase domain superfamily
+SJAG_02260			aspartic peptidase domain superfamily
+SJAG_01096			amino acid/polyamine transporter (predicted)
+SJAG_02986			amino acid/polyamine transporter (predicted)
+SJAG_02133			amino acid/polyamine transporter (predicted)
+SJAG_06598			amino acid/polyamine transporter (predicted)
+SJAG_00015			amino acid/polyamine transporter (predicted)
+SJAG_04135			amino acid/polyamine transporter (predicted)
+SJAG_02113			amino acid/polyamine transporter (predicted)
+SJAG_02941			amino acid/polyamine transporter (predicted)
+SJAG_00019			amino acid/polyamine transporter (predicted)
+SJAG_02957			RTA-like protein
+SJAG_02132			RTA-like protein
+SJAG_02581			RTA-like protein
+SJAG_00018			RTA-like protein
+SJAG_00587			RTA-like protein
+SJAG_01095			RTA-like protein
+SJAG_00589			RTA-like protein
+SJAG_02114			RTA-like protein
+SJAG_02943			RTA-like protein
+SJAG_00242			Aldo-keto reductase family protein
+SJAG_03821			Aldo-keto reductase family protein
+SJAG_02010			Aldo-keto reductase familiy protein
+SJAG_03063			Alpha/Beta hydrolase fold
+SJAG_00165			Alpha/Beta hydrolase fold
+SJAG_04105			Alpha/Beta hydrolase fold
+SJAG_03871			nucleotide-diphospho-sugar transferase, unknown specificity
+SJAG_03790			nucleotide-diphospho-sugar transferase, unknown specificity
+SJAG_04401			nucleotide-diphospho-sugar transferase, unknown specificity
+SJAG_01972			nucleotide-diphospho-sugar transferase, unknown specificity
+SJAG_16452			cell surface glycoprotein, flocculin
+SJAG_01985			cell surface glycoprotein, flocculin
+SJAG_05118			transposon related zinc knuckle and gag-polyprotein aspartyl protease
+SJAG_06639			zinc finger, CCHC-type
+SJAG_01362			alcohol dehydrogenase (unknown specificity)
+SJAG_02151			alcohol dehydrogenase (unknown specificity)
+SJAG_02963			alcohol dehydrogenase (unknown specificity)
+SJAG_03196			alcohol dehydrogenase (unknown specificity)
+SJAG_03370			alcohol dehydrogenase, Adh1-like
+SJAG_01690			short chain dehydrogenase,  human DHRS7 family
+SJAG_03492			short chain dehydrogenase,  human DHRS7 family
+SJAG_04027			short chain dehydrogenase,  human DHRS7 family
+SJAG_05033			short chain dehydrogenase
+SJAG_01492			short chain dehydrogenase,  human DHRS7 family
+SJAG_01850			short chain dehydrogenase,  human DHRS7 family
+SJAG_04067			histidine phosphatase superfamily protein
+SJAG_01970			histidine phosphatase superfamily protein
+SJAG_02784			FAD/NAD(P)-binding domain superfamily
+SJAG_04633			PI31 proteasome regulator, C-terminal
+SJAG_00485			alpha amylase
+SJAG_00600			serine/threonine protein phosphatase PP2A catalytic subunit Ppa1/Ppa2
+SJAG_04723			cell surface adhesion protein for conjugation
+SJAG_02767			UPF0658 conserved fungal multispanning membrane protein
+SJAG_02216			UPF0300 family protein
+SJAG_00107	mmf1		mitochondrial matrix protein, YjgF family protein Mmf1
+SJAG_02988			ThiJ domain protein, implicated in cellular detoxification
+SJAG_02794			NADPH-hemoprotein reductase
+SJAG_03323	gem2		SMN complex subunit Yip1/Gem2
+SJAG_00960			con-6 family conserved fungal protein
+SJAG_04295			cysteine transmembrane transporter
+SJAG_04743	frp1		plasma membrane ferric-chelate reductase
+SJAG_00161			Velum formation protein 1-like conserved fungal family
+SJAG_02984			histidine phosphatase superfamily protein
+SJAG_03049	wwm1		WW domain protein Wwm1
+SJAG_04242			metal-dependent phosphatase involved in cellular detoxification/metabolite repair (predicted)
+SJAG_02973			trans-aconitate 3-methyltransferase
+SJAG_03613			zinc finger, RING-type, Rad16-like
+SJAG_00500			zinc finger, RING-type, Rad16-like
+SJAG_03818			UDP-glucose 4-epimerase/aldose 1-epimerase
+SJAG_02951			UDP-glucose 4-epimerase/aldose 1-epimerase
+SJAG_04010	spo7a		Arf GEF Spo7
+SJAG_02248	spo7b		Arf GEF Spo7
+SJAG_03822			alcohol dehydrogenase Adh4-like
+SJAG_00240			alcohol dehydrogenase Adh4-like
+SJAG_04404			glyoxylase III Sdj1-like
+SJAG_02106			glyoxylase III Sdj1-like
+SJAG_02952			nucleolar RNA-binding protein NIFK
+SJAG_00949			nucleolar RNA-binding protein NIFK
+SJAG_04567			heat shock protein Hsp16-family
+SJAG_03815			heat shock protein Hsp16-family
+SJAG_02047			TENA/THI family protein, domain found in context with a broad range of enzymes
+SJAG_01742			TENA/THI family protein, domain found in context with a broad range of enzymes
+SJAG_01973			plasma membrane fluoride export channel
+SJAG_02580			extracellular 5'-nucleotidase, human NT5E family
+SJAG_02959			extracellular 5'-nucleotidase, human NT5E family
+SJAG_01171			cell wall glycoside hydrolase, family 5
+SJAG_05001			cell wall glycoside hydrolase, family 5
+SJAG_03824			cell wall glycoside hydrolase, family 31
+SJAG_04073			conserved fungal cell surface protein, Kre9/Knh1 family
+SJAG_03521			conserved fungal cell surface protein, Kre9/Knh1 family
+SJAG_01086			conserved fungal cell surface protein, Kre9/Knh1 family
+SJAG_02173			conserved fungal cell surface protein, Kre9/Knh1 family
+SJAG_04525			conserved fungal cell surface protein, Kre9/Knh1 family
+SJAG_03826			cell surface glycoprotein, flocculin, GLEYA adhesin domain
+SJAG_00239			cell surface glycoprotein, flocculin, GLEYA adhesin domain
+SJAG_01975			cell surface glycoprotein, flocculin, GLEYA adhesin domain
+SJAG_02958			plasma membrane sugar transporter family
+SJAG_03608			plasma membrane sugar transporter family
+SJAG_04068			plasma membrane sugar transporter family
+SJAG_01186			heat shock protein, Hsp70 family,  Ssa-like
+SJAG_04055			heat shock protein, Hsp70 family, Ssa-like
+SJAG_06597			RecQ type DNA helicase
+SJAG_06642			RecQ type DNA helicase
+SJAG_05353			RecQ type DNA helicase
+SJAG_05105			RecQ type DNA helicase
+SJAG_05173			RecQ type DNA helicase
+SJAG_00179			glutathione S-transferase
+SJAG_03863			glutathione S-transferase
+SJAG_00238			glutathione S-transferase
+SJAG_00257			methyltransferase type 11
+SJAG_01543			NADP-dependent oxidoreductase domain
+SJAG_03828			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_00027			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_02945			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_02135			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_03903			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_06622			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_06621			glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+SJAG_02734			pyruvate decarboxylase family protein
+SJAG_04842			pyruvate decarboxylase family protein
+SJAG_01113			mating-type transcription factor (Pc-like)
+SJAG_05153			mating-type transcription factor (Mc-like)
+SJAG_00673	bio3		7,8-diamino-pelargonic acid aminotransferase (DAPA)
+SJAG_01739			dynactin complex subunit 4
+SJAG_00124			NRG1-like transcriptional repressor, zinc finger C2H2-type
+SJAG_01998			amino acid transporter family
+SJAG_03829			amino acid transporter family
+SJAG_02947			amino acid transporter family
+SJAG_04637			amino acid transporter family
+SJAG_04903			amino acid transporter family
+SJAG_01994			amino acid transporter family
+SJAG_03827			amino acid transporter family
+SJAG_02946			amino acid transporter family
+SJAG_01390			NFACT, RNA-binding domain
+SJAG_02155			MFS transporter superfamily
+SJAG_02735			MFS transporter superfamily
+SJAG_05325			MFS transporter superfamily
+SJAG_02060			MFS transporter superfamily
+SJAG_01033			MFS transporter superfamily
+SJAG_04828			MFS transporter superfamily
+SJAG_01923			MFS transporter superfamily
+SJAG_04715			MFS transporter superfamily
+SJAG_01336			MFS transporter superfamily
+SJAG_02962			MFS transporter superfamily
+SJAG_03079			MFS transporter superfamily
+SJAG_02139			MFS transporter superfamily
+SJAG_04716			MFS transporter superfamily
+SJAG_03039			MFS transporter superfamily
+SJAG_01636			MFS transporter superfamily
+SJAG_04829			MFS transporter superfamily
+SJAG_00232			MFS transporter superfamily
+SJAG_04983			MFS transporter superfamily
+SJAG_05178			MFS transporter superfamily
+SJAG_02834			MFS transporter superfamily
+SJAG_05182			MFS transporter superfamily
+SJAG_03652			MFS transporter superfamily
+SJAG_00445			MFS transporter superfamily
+SJAG_03644			MFS transporter superfamily
+SJAG_03373			fructose-bisphosphate aldolase, class-II
+SJAG_01310			fructose-bisphosphate aldolase, class-II
+SJAG_01078			cation efflux protein family
+SJAG_01803			cation efflux protein family
+SJAG_01594			mitochondrial fission protein TPR repeat-like
+SJAG_04714			nucleobase cation symporter family
+SJAG_02147			nucleobase cation symporter family
+SJAG_02938			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_02138			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_02956			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_05234			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_06599			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_04374			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_06576			DNA-binding transcription factor, zf-fungal binuclear cluster type (predicted)
+SJAG_00551			Rho-type GTPase activating protein, with zinc finger, LIM-type
+SJAG_02093			lysophospholipase (predicted)
+SJAG_00211			magnesium transporter NIPA
+SJAG_01119	ogg1		DNA N-glycosylase activity
+SJAG_01532			Heat shock factor (HSF)-type, DNA-binding
+SJAG_00310			mannan endo-1,6-alpha-mannosidase, Dfg502-like
+SJAG_04851			mannan endo-1,6-alpha-mannosidase, Dfg502-like
+SJAG_00837			armadillo fold, proteasome activator Blm10-like
+SJAG_00591			armadillo fold, proteasome activator Blm10-like
+SJAG_02625			armadillo fold, proteasome activator Blm10-like
+SJAG_05252			armadillo fold, proteasome activator Blm10-like
+SJAG_00182			trehalose 6-phosphate synthase/phosphatase complex
+SJAG_02131			alpha-glucosidase (predicted)
+SJAG_04399			Thioredoxin reductase superfamily protein
+SJAG_03398			arginase (predicted)
+SJAG_01959			But2 family protein
+SJAG_00110			But2 family protein
+SJAG_00461			enolase
+SJAG_02107			enolase
+SJAG_02369			enolase
+SJAG_00713			KH domain RNA-binding protein
+SJAG_01414			alcohol dehydrogenase, Adh1-like
+SJAG_04096			Golgi calcium and manganese antiporter Gdt1
+SJAG_04373			DNA-binding transcription factor, zf-fungal binuclear cluster type
+SJAG_00953			cortical anchoring factor, pleckstrin homology domain
+SJAG_00099			fatty acid desaturase domain protein
+SJAG_01669			P-type ATPase
+SJAG_01129			P-type ATPase
+SJAG_01874			heat shock protein, Hsp70 family, Ssb2-like
+SJAG_03360			squalene cyclase-like protein
+SJAG_00950			peptidyl-prolyl cis-trans isomerase
+SJAG_05344			zinc finger, Sec23/Sec24-type
+SJAG_05345			zinc finger, Sec23/Sec24-type
+SJAG_02463			sulfate transmembrane transporter family
+SJAG_00937			glutamate decarboxylase
+SJAG_03321			19S proteasome regulatory subunit Rpn5
+SJAG_04171			ribonuclease H superfamily protein
+SJAG_03739			inositol monophosphatase-like protein
+SJAG_02156			Ribonuclease III, endonuclease domain superfamily
+SJAG_00473			Ribonuclease III, endonuclease domain superfamily
+SJAG_00042			kinesin-like protein
+SJAG_02985			Acetyl-CoA hydrolase/transferase, C-terminal domain superfamily
+SJAG_04808	gpp2		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04833	gpp3		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_00025	gpp4		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02944	gpp5		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02134	gpp6		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_01093	gpp7		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04836	gpp8		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04799	gpp9		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02153	gpp10		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_02676	gpp11		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04797	gpp12		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04835	gpp13		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04807	gpp14		S. japonicus specific family with GPPY motif and periodic tyrosine
+SJAG_04733			GTPase activating protein (predicted)
+SJAG_04095			Glycosyltransferase 34 family
+SJAG_03150	otg3		alpha-1,3-galactosyltransferase Otg3
+SJAG_04494	mrps12a		mitochondrial ribosomal protein S12 Mrps12a
+SJAG_04173	mrps12b		mitochondrial ribosomal protein S12 Mrps12b
+SJAG_04158			phosphatidylinositol-4 kinase plasma membrane scaffold Efr3-like
+SJAG_03322	cox11		cytochrome c oxidase assembly protein Cox11
+SJAG_04695	rps10b		40S ribosomal protein S10
+SJAG_02904	rps10a		40S ribosomal protein S10
+SJAG_00155	rpl21b		60S ribosomal protein L21
+SJAG_01202	rpl21a		60S ribosomal protein L21
+SJAG_02312	rpl8a		60S ribosomal protein L8/L2
+SJAG_00034	rpl8b		60S ribosomal protein L8/L2
+SJAG_00503	rps11a		40S ribosomal protein S11
+SJAG_00069	rps11b		40S ribosomal protein S11
+SJAG_00166	rpl35Aa		60S ribosomal protein L35A
+SJAG_04414	rpl35Ab		60S ribosomal protein L35A
+SJAG_00465	rpl11b		60S ribosomal protein L11
+SJAG_02280	rpl11a		60S ribosomal protein L11
+SJAG_01132	rps13b		40S ribosomal protein S13
+SJAG_01387	rps13a		40S ribosomal protein S13
+SJAG_03335	rpl18b		60S ribosomal protein L18
+SJAG_02597	rpl18a		60S ribosomal protein L18
+SJAG_02535	rpl12b		60S ribosomal protein L12.1/L12A
+SJAG_05248	rpl12a		60S ribosomal protein L12.1/L12A
+SJAG_01322	rpl301		60S ribosomal protein L3
+SJAG_02611	rpl302		60S ribosomal protein L3
+SJAG_03262	rps12		40S ribosomal protein S12
+SJAG_02861	rps18b		40S ribosomal protein S18
+SJAG_04188	rps18a		40S ribosomal protein S18
+SJAG_03762	rps22a		40S ribosomal protein S15a
+SJAG_01512	rps22b		40S ribosomal protein S15a
+SJAG_02510	rpl43a		60S ribosomal protein L37a
+SJAG_03043	rpl43b		60S ribosomal protein L37a
+SJAG_02335	rps19b		40S ribosomal protein S19
+SJAG_01296	rps19a		40S ribosomal protein S19
+SJAG_04066	rpl5b		60S ribosomal protein L5
+SJAG_01568	rpl5a		60S ribosomal protein L5
+SJAG_00748	rpl9b		60S ribosomal protein L9
+SJAG_00629	rpl9a		60S ribosomal protein L9
+SJAG_02207	rpl16b		60S ribosomal protein L13/L16
+SJAG_04160	rpl16a		60S ribosomal protein L13/L16
+SJAG_02522	rps1a		40S ribosomal protein S3a
+SJAG_00733	rps1b		40S ribosomal protein S3a
+SJAG_01609	rps16b		40S ribosomal protein S16
+SJAG_03422	rps16a		40S ribosomal protein S16
+SJAG_04168	rps17a		40S ribosomal protein S17
+SJAG_04204	rps17b		40S ribosomal protein S17
+SJAG_02585	rps24a		40S ribosomal protein S24
+SJAG_00468	rps24b		40S ribosomal protein S24
+SJAG_03122	rpl1b		60S ribosomal protein L10a
+SJAG_02531	rpl1a		60S ribosomal protein L10a
+SJAG_04534	rpl38a		60S ribosomal protein L38
+SJAG_02081	rpl38b		60S ribosomal protein L38
+SJAG_04998			ribosomal protein S27, zinc-binding domain superfamily (S27-like)
+SJAG_00544	rps9b		40S ribosomal protein S9
+SJAG_04342	rps9a		40S ribosomal protein S9
+SJAG_03159	rpl28a		60S ribosomal protein L27/L28
+SJAG_02546	rpl28b		60S ribosomal protein L27/L28
+SJAG_03922	rpl24b		60S ribosomal protein L24
+SJAG_02243	rpl24a		60S ribosomal protein L24
+SJAG_01608	rpl13a		60S ribosomal protein L13
+SJAG_03423	rpl13b		60S ribosomal protein L13
+SJAG_03383	rpl30		60S ribosomal protein L30
+SJAG_03326	rpl37a		60S ribosomal protein L37
+SJAG_01194	rpl37b		60S ribosomal protein L37
+SJAG_01676	rpl31b		60S ribosomal protein L31
+SJAG_02755	rpl31a		60S ribosomal protein L31
+SJAG_00765	rpl19b		60S ribosomal protein L19
+SJAG_00384	rpl19a		60S ribosomal protein L19
+SJAG_04663	rps403		40S ribosomal protein S4
+SJAG_04324	rps402		40S ribosomal protein S4
+SJAG_02802	rpl27b		60S ribosomal protein L27
+SJAG_01588	rpl27a		60S ribosomal protein L27
+SJAG_04897	rpl20Aa		60S ribosomal protein L20A
+SJAG_02283	rpl20Aa		60S ribosomal protein L20A
+SJAG_01565	rpl32b		60S ribosomal protein L32
+SJAG_01580	rpl32a		60S ribosomal protein L32
+SJAG_04478	rpl15a		60S ribosomal protein L15
+SJAG_03919	rpl15b		60S ribosomal protein L15
+SJAG_05216	rpl34b		60S ribosomal protein L34
+SJAG_01853	rpl34a		60S ribosomal protein L34
+SJAG_01366	rps26b		40S ribosomal protein S26
+SJAG_02894	rps26a		40S ribosomal protein S26
+SJAG_01548	rps14a		40S ribosomal protein S14
+SJAG_03424	rps14b		40S ribosomal protein S14
+SJAG_02020	rps8a		40S ribosomal protein S8
+SJAG_04029	rps8b		40S ribosomal protein S8
+SJAG_03197	rpl23a		60S ribosomal protein L23
+SJAG_01087	rpl23b		60S ribosomal protein L23
+SJAG_01364	rpl14		60S ribosomal protein L14
+SJAG_04672	rps25		40S ribosomal protein S25
+SJAG_01721	rpl17a		60S ribosomal protein L17
+SJAG_00940	rpl17b		60S ribosomal protein L17
+SJAG_03034	rps6b		40S ribosomal protein S6
+SJAG_03859	rps6a		40S ribosomal protein S6
+SJAG_02840	rpl25b		60S ribosomal protein L25
+SJAG_04304	rpl25a		60S ribosomal protein L25
+SJAG_06612	rpl4		60S ribosomal protein L4
+SJAG_02121	rpl36a		60S ribosomal protein L36
+SJAG_03133	rpl36b		60S ribosomal protein L36
+SJAG_01128	rpp202		ribosomal protein P2
+SJAG_02871	rpp203		ribosomal protein P2
+SJAG_04020	rpp1b		ribosomal protein P1
+SJAG_01411	rpp1a		ribosomal protein P1
+SJAG_04256	rps15a		40S ribosomal protein S15
+SJAG_02870	rps15b		40S ribosomal protein S15
+SJAG_00303	hhf3		histone H4 h4.3
+SJAG_00336	hhf1		histone H4 h4.1
+SJAG_03542	hhf2		histone H4 h4.2
+SJAG_00335	hht1		histone H3 h3.1
+SJAG_03543	hht2		histone H3 h3.2
+SJAG_00302	hht3		histone H3 h3.3
+SJAG_01438	eft2a		translation elongation factor 2 (EF-2) Eft2
+SJAG_05332	eft2b		translation elongation factor 2 (EF-2) Eft2
+SJAG_01851	tef102		translation elongation factor EF-1 alpha Ef1a
+SJAG_02180	tef101		translation elongation factor EF-1 alpha Ef1a
+SJAG_04157	tef103		translation elongation factor EF-1 alpha Ef1a
+SJAG_01365	ubi2		ribosomal-ubiquitin fusion protein
+SJAG_03971	ubi1		ribosomal-ubiquitin fusion protein
+SJAG_02891	ubi3		ribosomal-ubiquitin fusion protein
+SJAG_01226	ubi5		ribosomal-ubiquitin fusion protein
+SJAG_02253	ubi3		ribosomal-ubiquitin fusion protein
+SJAG_02803	rps001		40S ribosomal protein S0A (p40)
+SJAG_02184	rps002		40S ribosomal protein S0B
+SJAG_02479	rps003		40S ribosomal protein S0C
+SJAG_02812	tif512		translation elongation and termination factor eIF5A (predicted)tt
+SJAG_02189	tif51		translation elongation and termination factor eIF5A (predicted)
+SJAG_02890	rpl14b		60S ribosomal protein L14 (predicted)
+SJAG_01632	rps23b		40S ribosomal protein S23
+SJAG_02682	rps23a		40S ribosomal protein S23
+SJAG_03568	rps23c		40S ribosomal protein S23
+SJAG_01551	rpl702		60S ribosomal protein L7b involved in cytoplasmic translation
+SJAG_03425	rpl701		RNase MRP subunit, ribosomal protein L7-like Rpl701
+SJAG_04176	rpl10		60S ribosomal protein L10
+SJAG_03134			fungal conserved protein YML020W protein ortholog, PTHR47349 family
+SJAG_02710			Schizosaccharomyces specific family with conserved tryptophan
+SJAG_05920			Schizosaccharomyces specific family with conserved tryptophan
+SJAG_03148			Schizosaccharomyces japonicus specific protein with predicted signal peptide
+SJAG_04045			Schizosaccharomyces japonicus specific protein
+SJAG_02195			Schizosaccharomyces japonicus specific protein
+SJAG_00351			Schizosaccharomyces japonicus specific protein
+SJAG_02159			Schizosaccharomyces japonicus specific protein
+SJAG_00672			Schizosaccharomyces japonicus specific protein
+SJAG_03439			Schizosaccharomyces japonicus specific disordered protein
+SJAG_01158			Schizosaccharomyces japonicus specific disordered protein
+SJAG_00528			Schizosaccharomyces japonicus specific disordered protein
+SJAG_02122			Schizosaccharomyces japonicus specific low-complexity Glycine rich protein
+SJAG_00194			Schizosaccharomyces japonicus specific protein
+SJAG_01757			Schizosaccharomyces japonicus specific protein family, in between Wcy
+SJAG_01689			Schizosaccharomyces japonicus specific protein family, in between Wcy
+SJAG_06637			transposon fragment
+SJAG_02928			transposon fragment
+SJAG_03765			transposon fragment
+SJAG_05352			transposon fragment
+SJAG_03766			transposon fragment
+SJAG_06640			ReqQ-type subtelomeric helicase fragment
+SJAG_02967			dubious
+SJAG_02966			dubious
+SJAG_00927			dubious
+SJAG_00929			dubious
+SJAG_05336			dubious
+SJAG_00994			dubious
+SJAG_06212			dubious
+SJAG_06471			dubious
+SJAG_00862			dubious
+SJAG_03885			dubious
+SJAG_03390			dubious
+SJAG_03510			candidate Mis19 ortholog, syntenic position
+SJAG_01815			candidate S. pombe SPCC569.09  ortholog, syntenic position
+SJAG_05292			candidate Dms1 ortholog, syntenic position (possible gene prediction error)
+SJAG_04557			Schizosaccharomyces japonicus specific protein
+SJAG_04742			Schizosaccharomyces japonicus specific protein
+SJAG_01525			Schizosaccharomyces japonicus specific protein some similarity to proteases
+SJAG_03639			Schizosaccharomyces japonicus specific protein
+SJAG_03109			Schizosaccharomyces japonicus specific protein
+SJAG_03445			Schizosaccharomyces japonicus specific protein
+SJAG_03800			Schizosaccharomyces japonicus specific protein
+SJAG_03201			Schizosaccharomyces japonicus specific 6/7 TM domain protein family
+SJAG_03202			Schizosaccharomyces japonicus specific 6/7 TM domain protein family
+SJAG_02190			Schizosaccharomyces japonicus specific 6/7 TM domain protein family
+SJAG_01607			dubious
+SJAG_01451			Schizosaccharomyces japonicus specific protein, possibly be part of SJAG_01450
+SJAG_04985			Taz1-like protein
+SJAG_06546			Schizosaccharomyces japonicus specific protein
+SJAG_01893			dubious
+SJAG_02893			Schizosaccharomyces japonicus specific disordered protein
+SJAG_01555			Schizosaccharomyces japonicus specific disordered protein
+SJAG_03875			Schizosaccharomyces japonicus specific disordered protein
+SJAG_03645			transposable element related protein
+SJAG_00006			transposable element zinc finger related protein
+SJAG_01552			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_02925			Schizosaccharomyces japonicus specific disordered protein
+SJAG_04269			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_01982			Schizosaccharomyces japonicus specific disordered protein
+SJAG_00387			dubious
+SJAG_04967			Schizosaccharomyces japonicus specific disordered protein
+SJAG_02970			Schizosaccharomyces japonicus specific disordered protein
+SJAG_01306			Schizosaccharomyces japonicus specific protein with predicted signal peptide
+SJAG_00050			Schizosaccharomyces japonicus specific protein
+SJAG_01091			Schizosaccharomyces japonicus specific protein in duplicated region/dubious, shorter version of SJAG_00023
+SJAG_00023			Schizosaccharomyces japonicus specific protein in duplicated region/dubious, longer version of SJAG_01091
+SJAG_06187			Schizosaccharomyces japonicus specific protein
+SJAG_04786			Schizosaccharomyces japonicus specific protein with predicted signal peptide
+SJAG_00258			Schizosaccharomyces japonicus specific protein
+SJAG_02365			Schizosaccharomyces japonicus specific protein
+SJAG_03727			Schizosaccharomyces japonicus specific protein
+SJAG_05404			Schizosaccharomyces japonicus specific protein
+SJAG_04057			Schizosaccharomyces japonicus specific protein
+SJAG_01273			Schizosaccharomyces japonicus specific protein
+SJAG_01340			Schizosaccharomyces japonicus specific protein
+SJAG_05028			Schizosaccharomyces japonicus specific protein
+SJAG_02577			Schizosaccharomyces japonicus specific disordered protein
+SJAG_06204			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_06587			dubious
+SJAG_00016			dubious
+SJAG_05254			amino acid/polyamine transporter
+SJAG_06596			Schizosaccharomyces japonicus specific protein
+SJAG_00658			Schizosaccharomyces japonicus specific protein
+SJAG_05632			Schizosaccharomyces japonicus specific protein
+SJAG_05201			armadillo fold, proteasome activator Blm10-like
+SJAG_03304			conserved fungal family
+SJAG_05106			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_06643			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_03814			Schizosaccharomyces japonicus specific protein
+SJAG_06627			Schizosaccharomyces japonicus specific protein
+SJAG_01828			Schizosaccharomyces japonicus specific protein
+SJAG_05154			mating-type homeobox protein Pi
+SJAG_02987			cell surface glycoprotein, flocculin, Flo11-related
+SJAG_00388			Schizosaccharomyces japonicus specific protein
+SJAG_06591			Schizosaccharomyces japonicus specific protein/dubious
+SJAG_05840			dubious
+SJAG_05233			dubious
