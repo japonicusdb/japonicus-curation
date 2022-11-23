@@ -1,6 +1,4 @@
 #systematic_id	primary_name	synonyms	product
-SJAG_02860	wcs1		blue light photoreceptor Wcs1
-SJAG_05242	wcs2		blue light signalling transcription factor, zf-GATA type Wcs2
 SJAG_00535			Schizosaccharomyces japonicus specific protein
 SJAG_02340	rps27a	rps26	40S ribosomal protein S27
 SJAG_04998	rps27b	rps27	40S ribosomal protein S2
@@ -155,8 +153,8 @@ SJAG_00004			serine/threonine protein kinase
 SJAG_02249			serine/threonine protein kinase
 SJAG_03129			serine/threonine protein kinase
 SJAG_02961			NAD-dependent epimerase/dehydratase
-SJAG_05242			DNA-binding transcription factor, zf-GATA type
-SJAG_02860			PAS domain protein
+SJAG_05242	wcs2		blue light signalling transcription factor, zf-GATA type Wcs2
+SJAG_02860	wcs1		blue light photoreceptor Wcs1		
 SJAG_01603			GATA-like domain protein
 SJAG_03860			HECT-type ubiquitin-protein ligase E3 Ptr1-like
 SJAG_02118			plasma membrane ThrE amino acid transmembrane transporter family protein
